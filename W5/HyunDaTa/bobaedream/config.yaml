@@ -1,0 +1,6 @@
+Community:
+  bobaedream:
+    free: "https://www.bobaedream.co.kr/list?code=freeb&s_cate=&maker_no=&model_no=&or_gu=10&or_se=desc&s_selday=&pagescale=30&info3=&noticeShow=&s_select=&s_key=&level_no=&vdate=&type=list&page=1"
+    free2: "https://www.bobaedream.co.kr/list?code=freeb&s_cate=&maker_no=&model_no=&or_gu=10&or_se=desc&s_selday=&pagescale=30&info3=&noticeShow=&s_select=Body&s_key=%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89&level_no=&vdate=&type=list&page=1"
+  dcinside:
+    domestic: "https://gall.dcinside.com/board/lists?id=football_k"
