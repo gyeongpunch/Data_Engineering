@@ -1,0 +1,9 @@
+,Night Temperature (°C),Morning Temperature (°C),Day Temperature (°C),Evening Temperature (°C),Night_trip_count,Morning_trip_count,Day_trip_count,Evening_trip_count
+Night Temperature (°C),1.0,0.9494365966802363,0.869175198721921,0.7698876396642302,,,,
+Morning Temperature (°C),0.9494365966802363,1.0,0.930229310184618,0.8224323419403721,,,,
+Day Temperature (°C),0.869175198721921,0.930229310184618,1.0,0.8776937037595931,,,,
+Evening Temperature (°C),0.7698876396642302,0.8224323419403721,0.8776937037595931,1.0,,,,
+Night_trip_count,,,,,,,,
+Morning_trip_count,,,,,,,,
+Day_trip_count,,,,,,,,
+Evening_trip_count,,,,,,,,

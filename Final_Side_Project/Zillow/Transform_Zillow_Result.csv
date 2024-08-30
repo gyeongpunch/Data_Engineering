@@ -1,0 +1,539 @@
+address,detail_url,neighborhood,latitude,longitude
+"1111 Richland Rd, New Orleans, LA 70114",https://www.zillow.com/homedetails/1111-Richland-Rd-New-Orleans-LA-70114/73826301_zpid/,u-s-naval-base,29.9427624,-90.0163431
+"1300 Richland Rd, New Orleans, LA 70114",https://www.zillow.com/homedetails/1300-Richland-Rd-New-Orleans-LA-70114/149055821_zpid/,u-s-naval-base,29.94058219999999,-90.0152962
+"3139 Lamarque St, New Orleans, LA 70114",https://www.zillow.com/homedetails/3139-Lamarque-St-New-Orleans-LA-70114/149054064_zpid/,u-s-naval-base,29.9415047,-90.0233391
+"1329 Michael St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1329-Michael-St-New-Orleans-LA-70114/73826048_zpid/,u-s-naval-base,29.9406314,-90.0189271
+"3626 De Armas St, New Orleans, LA 70114",https://www.zillow.com/homedetails/3626-De-Armas-St-New-Orleans-LA-70114/73825807_zpid/,u-s-naval-base,29.9426785,-90.0178186
+"1726 Gen Collins Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/1726-Gen-Collins-Ave-New-Orleans-LA-70114/149055919_zpid/,u-s-naval-base,29.9359414,-90.0145533
+"708 Sumner St, New Orleans, LA 70114",https://www.zillow.com/homedetails/708-Sumner-St-New-Orleans-LA-70114/149051410_zpid/,u-s-naval-base,29.9476088,-90.03735139999999
+"3205 Luna St, New Orleans, LA 70114",https://www.zillow.com/homedetails/3205-Luna-St-New-Orleans-LA-70114/73826250_zpid/,u-s-naval-base,29.94515299999999,-90.0219091
+"729 Behrman Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/729-Behrman-Ave-New-Orleans-LA-70114/149053106_zpid/,u-s-naval-base,29.9472237,-90.0369461
+"1224 Saint Charles Ave Apt 214, New Orleans, LA 70130",https://www.zillow.com/homedetails/1224-Saint-Charles-Ave-APT-214-New-Orleans-LA-70130/148958936_zpid/,algiers-point,29.9409817,-90.07375329999999
+"1410 Jackson Ave, New Orleans, LA 70130",https://www.zillow.com/homedetails/1410-Jackson-Ave-New-Orleans-LA-70130/73821270_zpid/,algiers-point,29.9318803,-90.07924969999999
+"1410 Euterpe St #1410, New Orleans, LA 70130",https://www.zillow.com/homedetails/1410-Euterpe-St-1410-New-Orleans-LA-70130/2109065770_zpid/,algiers-point,29.9362002,-90.074111
+"1507 N Miro St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1507-N-Miro-St-New-Orleans-LA-70119/73782281_zpid/,algiers-point,29.9750464,-90.0724513
+"929 Bienville St, New Orleans, LA 70112",https://www.zillow.com/homedetails/929-Bienville-St-New-Orleans-LA-70112/2061290567_zpid/,algiers-point,29.9566996,-90.0697946
+"1231 Deslonde St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1231-Deslonde-St-New-Orleans-LA-70117/126374223_zpid/,algiers-point,29.96471369999999,-90.0232894
+"1329 7th St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1329-7th-St-New-Orleans-LA-70115/73820852_zpid/,algiers-point,29.9274277,-90.0860847
+"1013 Race St, New Orleans, LA 70130",https://www.zillow.com/homedetails/1013-Race-St-New-Orleans-LA-70130/84439357_zpid/,algiers-point,29.9343985,-90.0715912
+"3211 Prytania St Apt 5, New Orleans, LA 70115",https://www.zillow.com/homedetails/3211-Prytania-St-APT-5-New-Orleans-LA-70115/149046249_zpid/,algiers-point,29.9278843,-90.0887862
+"1005-07 Atlantic Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/1005-07-Atlantic-Ave-New-Orleans-LA-70114/2058855216_zpid/,whitney,29.945189,-90.04558229999999
+"237 Leboeuf St, New Orleans, LA 70114",https://www.zillow.com/homedetails/237-Leboeuf-St-New-Orleans-LA-70114/73828528_zpid/,whitney,29.9533483,-90.04182019999999
+"1309 L B Landry Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/1309-L-B-Landry-Ave-New-Orleans-LA-70114/2060165396_zpid/,whitney,29.9414307,-90.0413988
+"524 Atlantic Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/524-Atlantic-Ave-New-Orleans-LA-70114/2057662772_zpid/,whitney,29.950442,-90.04489199999999
+"537 Thayer St, New Orleans, LA 70114",https://www.zillow.com/homedetails/537-Thayer-St-New-Orleans-LA-70114/2060739674_zpid/,whitney,29.9498009,-90.043019
+"540 Atlantic Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/540-Atlantic-Ave-New-Orleans-LA-70114/2053762695_zpid/,whitney,29.950249,-90.044905
+"1221 Patterson St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1221-Patterson-St-New-Orleans-LA-70114/252075103_zpid/,whitney,29.95436239999999,-90.04277069999999
+"544 Atlantic Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/544-Atlantic-Ave-New-Orleans-LA-70114/2053762732_zpid/,whitney,29.950201,-90.04490799999999
+"703 Leboeuf St, New Orleans, LA 70114",https://www.zillow.com/homedetails/703-Leboeuf-St-New-Orleans-LA-70114/73823139_zpid/,whitney,29.9482316,-90.0421518
+"1711 Palmer Ave, New Orleans, LA 70118",https://www.zillow.com/homedetails/1711-Palmer-Ave-New-Orleans-LA-70118/73841590_zpid/,audubon,29.9336392,-90.1186639
+"70 Audubon Blvd, New Orleans, LA 70118",https://www.zillow.com/homedetails/70-Audubon-Blvd-New-Orleans-LA-70118/73841281_zpid/,audubon,29.9452671,-90.1183303
+"915 Nashville Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/915-Nashville-Ave-New-Orleans-LA-70115/73839224_zpid/,audubon,29.9227697,-90.1183032
+"5800 Saint Charles Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/5800-Saint-Charles-Ave-New-Orleans-LA-70115/73839286_zpid/,audubon,29.9299369,-90.116975
+"5931 Saint Charles Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/5931-Saint-Charles-Ave-New-Orleans-LA-70115/73839336_zpid/,audubon,29.9312525,-90.1176698
+"1631 Octavia St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1631-Octavia-St-New-Orleans-LA-70115/73843837_zpid/,audubon,29.9296715,-90.1135398
+"5705 Saint Charles Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/5705-Saint-Charles-Ave-New-Orleans-LA-70115/73839947_zpid/,audubon,29.9303572,-90.1158468
+"1640 Palmer Ave, New Orleans, LA 70118",https://www.zillow.com/homedetails/1640-Palmer-Ave-New-Orleans-LA-70118/73841086_zpid/,audubon,29.9332674,-90.119619
+"1725 Nashville Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/1725-Nashville-Ave-New-Orleans-LA-70115/73839950_zpid/,audubon,29.932031,-90.11561789999999
+"3710 Rue Denise, New Orleans, LA 70131",https://www.zillow.com/homedetails/3710-Rue-Denise-New-Orleans-LA-70131/73833897_zpid/,old-aurora,29.914434,-89.9965939
+"5821 Durbridge Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/5821-Durbridge-Dr-New-Orleans-LA-70131/73833673_zpid/,old-aurora,29.9270253,-89.9938311
+"2433 Bedford Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/2433-Bedford-Dr-New-Orleans-LA-70131/73838761_zpid/,old-aurora,29.9291726,-89.9933149
+"3100 Rue Parc Fontaine Apt 2201, New Orleans, LA 70131",https://www.zillow.com/homedetails/3100-Rue-Parc-Fontaine-APT-2201-New-Orleans-LA-70131/2068780841_zpid/,old-aurora,29.9230035,-90.0096854
+"101 Berkley Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/101-Berkley-Dr-New-Orleans-LA-70131/73832148_zpid/,old-aurora,29.9176512,-89.992454
+"1509 Steeple Chase Ln, New Orleans, LA 70131",https://www.zillow.com/homedetails/1509-Steeple-Chase-Ln-New-Orleans-LA-70131/84473529_zpid/,old-aurora,29.938744,-90.01006579999999
+"1550 De Battista Pl, New Orleans, LA 70131",https://www.zillow.com/homedetails/1550-De-Battista-Pl-New-Orleans-LA-70131/73831425_zpid/,old-aurora,29.9381201,-90.0104104
+"25 Admiralty Ct, New Orleans, LA 70131",https://www.zillow.com/homedetails/25-Admiralty-Ct-New-Orleans-LA-70131/149057720_zpid/,old-aurora,29.9317942,-89.99723689999999
+"3540 Rue Mignon, New Orleans, LA 70131",https://www.zillow.com/homedetails/3540-Rue-Mignon-New-Orleans-LA-70131/73829416_zpid/,old-aurora,29.9164847,-89.9994437
+"4513-15 Thalia St, New Orleans, LA 70125",https://www.zillow.com/homedetails/4513-15-Thalia-St-New-Orleans-LA-70125/2065976621_zpid/,b-w-cooper,29.956424,-90.10412749999999
+"515 N Lopez St, New Orleans, LA 70119",https://www.zillow.com/homedetails/515-N-Lopez-St-New-Orleans-LA-70119/148972031_zpid/,bayou-st-john,29.9723659,-90.08894959999999
+"2546-48 Saint Ann St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2546-48-Saint-Ann-St-New-Orleans-LA-70119/2052957300_zpid/,bayou-st-john,29.9701287,-90.0808526
+"2312 George N Connor Dr, New Orleans, LA 70119",https://www.zillow.com/homedetails/2312-George-N-Connor-Dr-New-Orleans-LA-70119/73782703_zpid/,bayou-st-john,29.9803582,-90.068764
+"3042 Saint Philip St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3042-Saint-Philip-St-New-Orleans-LA-70119/73778602_zpid/,bayou-st-john,29.9757309,-90.08507469999999
+"3314 Bell St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3314-Bell-St-New-Orleans-LA-70119/73779604_zpid/,bayou-st-john,29.9780475,-90.0870893
+"3354 Dumaine St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3354-Dumaine-St-New-Orleans-LA-70119/365826135_zpid/,bayou-st-john,29.9770305,-90.08918899999999
+"1828-30 Moss St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1828-30-Moss-St-New-Orleans-LA-70119/2054617824_zpid/,bayou-st-john,29.9880168,-90.087311
+"2927 Bell St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2927-Bell-St-New-Orleans-LA-70119/73780137_zpid/,bayou-st-john,29.9770937,-90.08275379999999
+"1119 N Dupre St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1119-N-Dupre-St-New-Orleans-LA-70119/73786303_zpid/,bayou-st-john,29.9763393,-90.08248429999999
+"1115 Numa St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1115-Numa-St-New-Orleans-LA-70114/84472810_zpid/,behrman,29.9433286,-90.0358931
+"2069 Halsey Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/2069-Halsey-Ave-New-Orleans-LA-70114/73825726_zpid/,behrman,29.9319645,-90.017336
+"1440 Shirley Dr, New Orleans, LA 70114",https://www.zillow.com/homedetails/1440-Shirley-Dr-New-Orleans-LA-70114/73824165_zpid/,behrman,29.9390053,-90.0314252
+"2065 Halsey Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/2065-Halsey-Ave-New-Orleans-LA-70114/84473412_zpid/,behrman,29.9322237,-90.0173341
+"2020 Farragut St, New Orleans, LA 70114",https://www.zillow.com/homedetails/2020-Farragut-St-New-Orleans-LA-70114/149053594_zpid/,behrman,29.9338898,-90.03378339999999
+"1231-33 Flanders St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1231-33-Flanders-St-New-Orleans-LA-70114/366834448_zpid/,behrman,29.9418209,-90.02030359999999
+"3542 Vespasian Blvd Apt 109, New Orleans, LA 70114",https://www.zillow.com/homedetails/3542-Vespasian-Blvd-APT-109-New-Orleans-LA-70114/2070250551_zpid/,behrman,29.9302199,-90.0187902
+"5885 Mac Arthur Blvd, New Orleans, LA 70131",https://www.zillow.com/homedetails/5885-Mac-Arthur-Blvd-New-Orleans-LA-70131/73828991_zpid/,behrman,29.9203886,-89.9932353
+"2317-19 Kraft Pl, New Orleans, LA 70114",https://www.zillow.com/homedetails/2317-19-Kraft-Pl-New-Orleans-LA-70114/2065974728_zpid/,behrman,29.931492,-90.03404359999999
+"7463 Dominican St, New Orleans, LA 70118",https://www.zillow.com/homedetails/7463-Dominican-St-New-Orleans-LA-70118/73843181_zpid/,black-pearl,29.9377106,-90.1306346
+"248 Cherokee St Apt 29, New Orleans, LA 70118",https://www.zillow.com/homedetails/248-Cherokee-St-APT-29-New-Orleans-LA-70118/149082779_zpid/,black-pearl,29.936607,-90.1324436
+"156 Millaudon St, New Orleans, LA 70118",https://www.zillow.com/homedetails/156-Millaudon-St-New-Orleans-LA-70118/84480645_zpid/,black-pearl,29.9344694,-90.13329209999999
+"248 Cherokee St Apt 25, New Orleans, LA 70118",https://www.zillow.com/homedetails/248-Cherokee-St-APT-25-New-Orleans-LA-70118/2100997581_zpid/,black-pearl,29.936607,-90.1324436
+"8000 Saint Charles Ave #c, New Orleans, LA 70118",https://www.zillow.com/homedetails/8000-Saint-Charles-Ave-C-New-Orleans-LA-70118/2067974076_zpid/,black-pearl,29.9423062,-90.13371819999999
+"7444 Saint Charles Ave Apt 310, New Orleans, LA 70118",https://www.zillow.com/homedetails/7444-Saint-Charles-Ave-APT-310-New-Orleans-LA-70118/149083102_zpid/,black-pearl,29.9383179,-90.12861629999999
+"400-02 Millaudon St, New Orleans, LA 70118",https://www.zillow.com/homedetails/400-02-Millaudon-St-New-Orleans-LA-70118/2061499247_zpid/,black-pearl,29.9373709,-90.1302909
+"7444 Saint Charles Ave Apt 205, New Orleans, LA 70118",https://www.zillow.com/homedetails/7444-Saint-Charles-Ave-APT-205-New-Orleans-LA-70118/149083088_zpid/,black-pearl,29.9383179,-90.12861629999999
+"7608 Saint Charles Ave Apt A, New Orleans, LA 70118",https://www.zillow.com/homedetails/7608-Saint-Charles-Ave-APT-A-New-Orleans-LA-70118/114013107_zpid/,black-pearl,29.9398338,-90.130619
+"2700-02 S Galvez St, New Orleans, LA 70125",https://www.zillow.com/homedetails/2700-02-S-Galvez-St-New-Orleans-LA-70125/402142033_zpid/,broadmoor,29.9468662,-90.0966151
+"4420 S Prieur St, New Orleans, LA 70125",https://www.zillow.com/homedetails/4420-S-Prieur-St-New-Orleans-LA-70125/73836797_zpid/,broadmoor,29.9428584,-90.104452
+"3316-18 Delachaise St, New Orleans, LA 70125",https://www.zillow.com/homedetails/3316-18-Delachaise-St-New-Orleans-LA-70125/390861039_zpid/,broadmoor,29.9439624,-90.0998479
+"3219-21 Louisiana Ave, New Orleans, LA 70125",https://www.zillow.com/homedetails/3219-21-Louisiana-Ave-New-Orleans-LA-70125/2065963412_zpid/,broadmoor,29.943722,-90.0982336
+"3922 Delachaise St, New Orleans, LA 70125",https://www.zillow.com/homedetails/3922-Delachaise-St-New-Orleans-LA-70125/149076698_zpid/,broadmoor,29.9492633,-90.1016824
+"4200 Walmsley Ave, New Orleans, LA 70125",https://www.zillow.com/homedetails/4200-Walmsley-Ave-New-Orleans-LA-70125/73838163_zpid/,broadmoor,29.9508651,-90.104281
+"3700 Octavia St, New Orleans, LA 70125",https://www.zillow.com/homedetails/3700-Octavia-St-New-Orleans-LA-70125/73843315_zpid/,broadmoor,29.949156,-90.1088963
+"3231 Milan St, New Orleans, LA 70125",https://www.zillow.com/homedetails/3231-Milan-St-New-Orleans-LA-70125/73837071_zpid/,broadmoor,29.9431789,-90.1011626
+"2401-03 S Johnson St, New Orleans, LA 70125",https://www.zillow.com/homedetails/2401-03-S-Johnson-St-New-Orleans-LA-70125/2052924783_zpid/,broadmoor,29.9476445,-90.09387459999999
+"26 Versailles Blvd, New Orleans, LA 70125",https://www.zillow.com/homedetails/26-Versailles-Blvd-New-Orleans-LA-70125/73841310_zpid/,marlyville-fontainebleau,29.9504811,-90.11332259999999
+"7217-19 Pritchard Pl, New Orleans, LA 70125",https://www.zillow.com/homedetails/7217-19-Pritchard-Pl-New-Orleans-LA-70125/2065971476_zpid/,marlyville-fontainebleau,29.95648409999999,-90.112434
+"4150 State Street Dr, New Orleans, LA 70125",https://www.zillow.com/homedetails/4150-State-Street-Dr-New-Orleans-LA-70125/73839038_zpid/,marlyville-fontainebleau,29.9546011,-90.10939259999999
+"2908 Audubon St, New Orleans, LA 70125",https://www.zillow.com/homedetails/2908-Audubon-St-New-Orleans-LA-70125/84479698_zpid/,marlyville-fontainebleau,29.9558999,-90.1115817
+"25 Versailles Blvd, New Orleans, LA 70125",https://www.zillow.com/homedetails/25-Versailles-Blvd-New-Orleans-LA-70125/73840544_zpid/,marlyville-fontainebleau,29.9495091,-90.1130621
+"6216-18 Fontainebleau Dr, New Orleans, LA 70125",https://www.zillow.com/homedetails/6216-18-Fontainebleau-Dr-New-Orleans-LA-70125/2065944787_zpid/,marlyville-fontainebleau,29.9514498,-90.11083350000001
+"2313 Burdette St, New Orleans, LA 70118",https://www.zillow.com/homedetails/2313-Burdette-St-New-Orleans-LA-70118/73845502_zpid/,marlyville-fontainebleau,29.9532899,-90.1184454
+"6215-17 York St, New Orleans, LA 70125",https://www.zillow.com/homedetails/6215-17-York-St-New-Orleans-LA-70125/2065978613_zpid/,marlyville-fontainebleau,29.9492375,-90.1115414
+"5417 S Tonti St, New Orleans, LA 70125",https://www.zillow.com/homedetails/5417-S-Tonti-St-New-Orleans-LA-70125/84477462_zpid/,marlyville-fontainebleau,29.94632279999999,-90.1086397
+"1401-03 S Dupre St, New Orleans, LA 70125",https://www.zillow.com/homedetails/1401-03-S-Dupre-St-New-Orleans-LA-70125/353423071_zpid/,gert-town,29.95401609999999,-90.1006635
+"1015 S Telemachus St, New Orleans, LA 70125",https://www.zillow.com/homedetails/1015-S-Telemachus-St-New-Orleans-LA-70125/73773626_zpid/,gert-town,29.96219979999999,-90.1054027
+"3311 Fern St, New Orleans, LA 70125",https://www.zillow.com/homedetails/3311-Fern-St-New-Orleans-LA-70125/73847803_zpid/,gert-town,29.96109929999999,-90.11162209999999
+"1117-19 S Dupre St, New Orleans, LA 70125",https://www.zillow.com/homedetails/1117-19-S-Dupre-St-New-Orleans-LA-70125/352354241_zpid/,gert-town,29.9561752,-90.09920749999999
+"3219 Dante St, New Orleans, LA 70118",https://www.zillow.com/homedetails/3219-Dante-St-New-Orleans-LA-70118/73850053_zpid/,gert-town,29.9633211,-90.1156402
+"4827 Washington Ave, New Orleans, LA 70125",https://www.zillow.com/homedetails/4827-Washington-Ave-New-Orleans-LA-70125/73773623_zpid/,gert-town,29.9617285,-90.1053592
+"7929-35 Olive St, New Orleans, LA 70125",https://www.zillow.com/homedetails/7929-35-Olive-St-New-Orleans-LA-70125/2065973766_zpid/,gert-town,29.9622611,-90.1115434
+"4228 Erato St, New Orleans, LA 70125",https://www.zillow.com/homedetails/4228-Erato-St-New-Orleans-LA-70125/84440755_zpid/,gert-town,29.95549,-90.1015238
+"4100 Thalia St, New Orleans, LA 70125",https://www.zillow.com/homedetails/4100-Thalia-St-New-Orleans-LA-70125/2126666597_zpid/,gert-town,29.953595,-90.099724
+"2906 Palmyra St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2906-Palmyra-St-New-Orleans-LA-70119/73773689_zpid/,mid-city,29.9653549,-90.09152879999999
+"2225-2227 Iberville St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2225-2227-Iberville-St-New-Orleans-LA-70119/346986310_zpid/,mid-city,29.9636369,-90.08191080000002
+"3840-3842 Orleans, New Orleans, LA 70119",https://www.zillow.com/homedetails/3840-3842-Orleans-New-Orleans-LA-70119/2083502731_zpid/,mid-city,29.97797199999999,-90.09408069999999
+"212 David St, New Orleans, LA 70119",https://www.zillow.com/homedetails/212-David-St-New-Orleans-LA-70119/73774844_zpid/,mid-city,29.9761976,-90.1001364
+"200 N Norman C Francis Pkwy, New Orleans, LA 70119",https://www.zillow.com/homedetails/200-N-Norman-C-Francis-Pkwy-New-Orleans-LA-70119/2057700716_zpid/,mid-city,29.9708316,-90.0927451
+"3805-07 Ulloa St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3805-07-Ulloa-St-New-Orleans-LA-70119/2059787415_zpid/,mid-city,29.9677091,-90.1022416
+"4701 Iberville St, New Orleans, LA 70119",https://www.zillow.com/homedetails/4701-Iberville-St-New-Orleans-LA-70119/73774703_zpid/,mid-city,29.9799426,-90.1060122
+"2755 Palmyra St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2755-Palmyra-St-New-Orleans-LA-70119/73773873_zpid/,mid-city,29.9647628,-90.0899881
+"516-18 S Hennessey St, New Orleans, LA 70119",https://www.zillow.com/homedetails/516-18-S-Hennessey-St-New-Orleans-LA-70119/2078819166_zpid/,mid-city,29.9722402,-90.1063819
+"1844 Pauline St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1844-Pauline-St-New-Orleans-LA-70117/73802887_zpid/,st-claude,29.9741165,-90.0350777
+"2662-64 N Galvez St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2662-64-N-Galvez-St-New-Orleans-LA-70117/2062741373_zpid/,st-claude,29.978875,-90.04626420000001
+"1735 Feliciana St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1735-Feliciana-St-New-Orleans-LA-70117/73810446_zpid/,st-claude,29.9744854,-90.04282839999999
+"3140 N Robertson St, New Orleans, LA 70117",https://www.zillow.com/homedetails/3140-N-Robertson-St-New-Orleans-LA-70117/73800202_zpid/,st-claude,29.9712207,-90.04207679999999
+"1235 Alvar St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1235-Alvar-St-New-Orleans-LA-70117/149020326_zpid/,st-claude,29.9675582,-90.0355755
+"1428-30 Pauline St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1428-30-Pauline-St-New-Orleans-LA-70117/2065951565_zpid/,st-claude,29.9697822,-90.0363906
+"3129-31 N Claiborne Ave, New Orleans, LA 70117",https://www.zillow.com/homedetails/3129-31-N-Claiborne-Ave-New-Orleans-LA-70117/2065976377_zpid/,st-claude,29.9727383,-90.0419715
+"2538-40 Congress St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2538-40-Congress-St-New-Orleans-LA-70117/2056461176_zpid/,st-claude,29.9817386,-90.0344677
+"1405-07 Bartholomew St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1405-07-Bartholomew-St-New-Orleans-LA-70117/402600173_zpid/,st-claude,29.9688137,-90.0341466
+"2 Canal St #3002, New Orleans, LA 70130",https://www.zillow.com/homedetails/2-Canal-St-3002-New-Orleans-LA-70130/2055200782_zpid/,central-business-district,29.94905129999999,-90.0638373
+"700 Commerce St Apt 308, New Orleans, LA 70130",https://www.zillow.com/homedetails/700-Commerce-St-APT-308-New-Orleans-LA-70130/84441034_zpid/,central-business-district,29.9462699,-90.06641169999999
+"700 Commerce St Apt 307, New Orleans, LA 70130",https://www.zillow.com/homedetails/700-Commerce-St-APT-307-New-Orleans-LA-70130/84441033_zpid/,central-business-district,29.9462699,-90.06641169999999
+"1201 Canal St Apt 354, New Orleans, LA 70112",https://www.zillow.com/homedetails/1201-Canal-St-APT-354-New-Orleans-LA-70112/110378059_zpid/,central-business-district,29.9564531,-90.0734256
+"401 Tchoupitoulas St #c1, New Orleans, LA 70130",https://www.zillow.com/homedetails/401-Tchoupitoulas-St-C1-New-Orleans-LA-70130/350263275_zpid/,central-business-district,29.9493053,-90.0671404
+"700 Commerce St Apt 212, New Orleans, LA 70130",https://www.zillow.com/homedetails/700-Commerce-St-APT-212-New-Orleans-LA-70130/148958532_zpid/,central-business-district,29.9462699,-90.06641169999999
+"731 Saint Charles Ave Unit 304, New Orleans, LA 70130",https://www.zillow.com/homedetails/731-Saint-Charles-Ave-UNIT-304-New-Orleans-LA-70130/352016692_zpid/,central-business-district,29.9467053,-90.0718093
+"2 Canal St #2308, New Orleans, LA 70130",https://www.zillow.com/homedetails/2-Canal-St-2308-New-Orleans-LA-70130/347848445_zpid/,central-business-district,29.9490612,-90.06355719999999
+"201 S Villere St, New Orleans, LA 70112",https://www.zillow.com/homedetails/201-S-Villere-St-New-Orleans-LA-70112/247553168_zpid/,central-business-district,29.9570245,-90.0771769
+"929 Bienville St, New Orleans, LA 70112",https://www.zillow.com/homedetails/929-Bienville-St-New-Orleans-LA-70112/2061290567_zpid/,french-quarter,29.9566996,-90.0697946
+"620 Decatur St Apt P, New Orleans, LA 70130",https://www.zillow.com/homedetails/620-Decatur-St-APT-P-New-Orleans-LA-70130/126451995_zpid/,french-quarter,29.9564675,-90.0627435
+"930 Chartres St, New Orleans, LA 70116",https://www.zillow.com/homedetails/930-Chartres-St-New-Orleans-LA-70116/342017902_zpid/,french-quarter,29.95958259999999,-90.0618073
+"1020 Esplanade Ave Apt 213, New Orleans, LA 70116",https://www.zillow.com/homedetails/1020-Esplanade-Ave-APT-213-New-Orleans-LA-70116/148975061_zpid/,french-quarter,29.965214,-90.06293439999999
+"1921 Gov Nicholls St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1921-Gov-Nicholls-St-New-Orleans-LA-70116/84447965_zpid/,french-quarter,29.9696917,-90.07202679999999
+"920 Saint Louis St Apt 4, New Orleans, LA 70112",https://www.zillow.com/homedetails/920-Saint-Louis-St-APT-4-New-Orleans-LA-70112/110378029_zpid/,french-quarter,29.957625,-90.0682085
+"1125 Royal St Apt 3, New Orleans, LA 70116",https://www.zillow.com/homedetails/1125-Royal-St-APT-3-New-Orleans-LA-70116/73780143_zpid/,french-quarter,29.961505,-90.06177389999999
+"539 Toulouse St Apt D, New Orleans, LA 70130",https://www.zillow.com/homedetails/539-Toulouse-St-APT-D-New-Orleans-LA-70130/148969933_zpid/,french-quarter,29.9566096,-90.06426479999999
+"716 Dumaine St, New Orleans, LA 70116",https://www.zillow.com/homedetails/716-Dumaine-St-New-Orleans-LA-70116/73777610_zpid/,french-quarter,29.959708,-90.0639202
+"1224 Saint Charles Ave Apt 214, New Orleans, LA 70130",https://www.zillow.com/homedetails/1224-Saint-Charles-Ave-APT-214-New-Orleans-LA-70130/148958936_zpid/,central-city,29.9409817,-90.07375329999999
+"1720 Philip St, New Orleans, LA 70113",https://www.zillow.com/homedetails/1720-Philip-St-New-Orleans-LA-70113/73821693_zpid/,central-city,29.9343924,-90.08322509999999
+"2102 Josephine St, New Orleans, LA 70113",https://www.zillow.com/homedetails/2102-Josephine-St-New-Orleans-LA-70113/149047521_zpid/,central-city,29.9389505,-90.0834556
+"2113-15 S Liberty St, New Orleans, LA 70113",https://www.zillow.com/homedetails/2113-15-S-Liberty-St-New-Orleans-LA-70113/2065971882_zpid/,central-city,29.9404199,-90.0850286
+"2823 2nd St, New Orleans, LA 70113",https://www.zillow.com/homedetails/2823-2nd-St-New-Orleans-LA-70113/247553694_zpid/,central-city,29.9426951,-90.0910461
+"1404 Prytania St #f2, New Orleans, LA 70130",https://www.zillow.com/homedetails/1404-Prytania-St-F2-New-Orleans-LA-70130/84439423_zpid/,central-city,29.9389349,-90.07347779999999
+"1525 Clio St Apt 5, New Orleans, LA 70130",https://www.zillow.com/homedetails/1525-Clio-St-APT-5-New-Orleans-LA-70130/84440316_zpid/,central-city,29.940853,-90.07270470000002
+"2320 2nd St, New Orleans, LA 70113",https://www.zillow.com/homedetails/2320-2nd-St-New-Orleans-LA-70113/73821867_zpid/,central-city,29.93841549999999,-90.0882987
+"2608 Magnolia St, New Orleans, LA 70113",https://www.zillow.com/homedetails/2608-Magnolia-St-New-Orleans-LA-70113/114010815_zpid/,central-city,29.9406371,-90.0912183
+"4601 Murano Rd, New Orleans, LA 70129",https://www.zillow.com/homedetails/4601-Murano-Rd-New-Orleans-LA-70129/149039361_zpid/,lake-catherine,30.0696689,-89.8136399
+"3262 Ridgeway Blvd, New Orleans, LA 70129",https://www.zillow.com/homedetails/3262-Ridgeway-Blvd-New-Orleans-LA-70129/149037664_zpid/,lake-catherine,30.13712,-89.8655204
+"3030 Ridgeway Blvd, New Orleans, LA 70129",https://www.zillow.com/homedetails/3030-Ridgeway-Blvd-New-Orleans-LA-70129/149037687_zpid/,lake-catherine,30.1324784,-89.86702849999999
+"54 Lake Breeze Dr #54, New Orleans, LA 70129",https://www.zillow.com/homedetails/54-Lake-Breeze-Dr-54-New-Orleans-LA-70129/2055664222_zpid/,lake-catherine,30.0642347,-89.8079604
+"20637 Old Spanish Trl, New Orleans, LA 70129",https://www.zillow.com/homedetails/20637-Old-Spanish-Trl-New-Orleans-LA-70129/73817872_zpid/,lake-catherine,30.0651676,-89.8109537
+"30 Clinton Dr, New Orleans, LA 70129",https://www.zillow.com/homedetails/30-Clinton-Dr-New-Orleans-LA-70129/73814769_zpid/,lake-catherine,30.1594651,-89.7380663
+"20159 Old Spanish Trl, New Orleans, LA 70129",https://www.zillow.com/homedetails/20159-Old-Spanish-Trl-New-Orleans-LA-70129/73819606_zpid/,lake-catherine,30.0662604,-89.82026069999999
+"20713 Old Spanish Trl, New Orleans, LA 70129",https://www.zillow.com/homedetails/20713-Old-Spanish-Trl-New-Orleans-LA-70129/2082171736_zpid/,lake-catherine,30.0649768,-89.8100317
+"3274 Ridgeway Blvd, New Orleans, LA 70129",https://www.zillow.com/homedetails/3274-Ridgeway-Blvd-New-Orleans-LA-70129/124050969_zpid/,lake-catherine,30.1375083,-89.8655706
+"7600 Adventure Ave, New Orleans, LA 70129",https://www.zillow.com/homedetails/7600-Adventure-Ave-New-Orleans-LA-70129/73818766_zpid/,village-de-lest,30.0614166,-89.9275162
+"5500 Grand Bayou Dr, New Orleans, LA 70129",https://www.zillow.com/homedetails/5500-Grand-Bayou-Dr-New-Orleans-LA-70129/73818580_zpid/,village-de-lest,30.0422114,-89.92898129999999
+"13237 Willowbrook Dr, New Orleans, LA 70129",https://www.zillow.com/homedetails/13237-Willowbrook-Dr-New-Orleans-LA-70129/149041532_zpid/,village-de-lest,30.0431788,-89.9234113
+"7539 Expedition Dr, New Orleans, LA 70129",https://www.zillow.com/homedetails/7539-Expedition-Dr-New-Orleans-LA-70129/73819175_zpid/,village-de-lest,30.0632946,-89.92542480000002
+"4827 Michoud Blvd, New Orleans, LA 70129",https://www.zillow.com/homedetails/4827-Michoud-Blvd-New-Orleans-LA-70129/84467881_zpid/,village-de-lest,30.0346085,-89.9289847
+"13662 Explorers St, New Orleans, LA 70129",https://www.zillow.com/homedetails/13662-Explorers-St-New-Orleans-LA-70129/349470399_zpid/,village-de-lest,30.0576783,-89.92563349999999
+"5126-28 Revel St, New Orleans, LA 70129",https://www.zillow.com/homedetails/5126-28-Revel-St-New-Orleans-LA-70129/2065949920_zpid/,village-de-lest,30.0388993,-89.9294414
+"5610 New England Dr, New Orleans, LA 70129",https://www.zillow.com/homedetails/5610-New-England-Dr-New-Orleans-LA-70129/73819657_zpid/,village-de-lest,30.0439225,-89.933888
+"7761 W Cavelier Dr, New Orleans, LA 70129",https://www.zillow.com/homedetails/7761-W-Cavelier-Dr-New-Orleans-LA-70129/73824909_zpid/,village-de-lest,30.0586744,-89.93132279999999
+"8311 Almonaster Ave, New Orleans, LA 70126",https://www.zillow.com/homedetails/8311-Almonaster-Ave-New-Orleans-LA-70126/149031042_zpid/,viavant-venetian-isles,30.008612,-89.98961
+"57002 Chef Menteur Hwy, New Orleans, LA 70129",https://www.zillow.com/homedetails/57002-Chef-Menteur-Hwy-New-Orleans-LA-70129/2053187935_zpid/,viavant-venetian-isles,30.055605,-89.8741876
+"39017 Beauregard Ave, New Orleans, LA 70127",https://www.zillow.com/homedetails/39017-Beauregard-Ave-New-Orleans-LA-70127/245743449_zpid/,viavant-venetian-isles,30.0234197,-90.0837339
+"53492 Central Rd, New Orleans, LA 70127",https://www.zillow.com/homedetails/53492-Central-Rd-New-Orleans-LA-70127/350516827_zpid/,viavant-venetian-isles,30.018125,-89.957326
+"53502 Central Rd, New Orleans, LA 70127",https://www.zillow.com/homedetails/53502-Central-Rd-New-Orleans-LA-70127/350516722_zpid/,viavant-venetian-isles,30.018125,-89.957326
+"4136 Darby St, New Orleans, LA 70127",https://www.zillow.com/homedetails/4136-Darby-St-New-Orleans-LA-70127/149032724_zpid/,viavant-venetian-isles,30.014632,-89.97168599999999
+"1610701 Buchanan St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1610701-Buchanan-St-New-Orleans-LA-70122/245744012_zpid/,viavant-venetian-isles,29.996628,-90.0806666
+"53505 Central Rd, New Orleans, LA 70127",https://www.zillow.com/homedetails/53505-Central-Rd-New-Orleans-LA-70127/350516402_zpid/,viavant-venetian-isles,30.018125,-89.957326
+"39018 Beauregard Ave, New Orleans, LA 70127",https://www.zillow.com/homedetails/39018-Beauregard-Ave-New-Orleans-LA-70127/245743450_zpid/,viavant-venetian-isles,30.0234197,-90.0837339
+"9 Bonita Bay Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/9-Bonita-Bay-Dr-New-Orleans-LA-70131/114012620_zpid/,new-aurora-english-turn,29.9025522,-89.9490124
+"2941 Kent Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/2941-Kent-Dr-New-Orleans-LA-70131/73830265_zpid/,new-aurora-english-turn,29.9199843,-89.98227469999999
+"603 English Turn Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/603-English-Turn-Dr-New-Orleans-LA-70131/73832232_zpid/,new-aurora-english-turn,29.9100063,-89.9538365
+"12 Island Club Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/12-Island-Club-Dr-New-Orleans-LA-70131/149065550_zpid/,new-aurora-english-turn,29.9038851,-89.9596533
+"174 English Turn Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/174-English-Turn-Dr-New-Orleans-LA-70131/73831369_zpid/,new-aurora-english-turn,29.9007855,-89.9482195
+"7 English Turn Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/7-English-Turn-Dr-New-Orleans-LA-70131/73831223_zpid/,new-aurora-english-turn,29.9069838,-89.94967679999999
+"3200 Lancaster St, New Orleans, LA 70131",https://www.zillow.com/homedetails/3200-Lancaster-St-New-Orleans-LA-70131/73826806_zpid/,new-aurora-english-turn,29.9198915,-89.9784116
+"2 English Turn Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/2-English-Turn-Dr-New-Orleans-LA-70131/149058308_zpid/,new-aurora-english-turn,29.9079687,-89.95106129999999
+"738 English Turn Ln, New Orleans, LA 70131",https://www.zillow.com/homedetails/738-English-Turn-Ln-New-Orleans-LA-70131/73839547_zpid/,new-aurora-english-turn,29.8994251,-89.94696300000001
+"3767 Red Oak Ct, New Orleans, LA 70131",https://www.zillow.com/homedetails/3767-Red-Oak-Ct-New-Orleans-LA-70131/73834954_zpid/,tall-timbers-brechtel,29.9063758,-89.9985571
+"60 Yosemite Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/60-Yosemite-Dr-New-Orleans-LA-70131/73830598_zpid/,tall-timbers-brechtel,29.9135831,-90.01103789999999
+"3616 Inwood Ave, New Orleans, LA 70131",https://www.zillow.com/homedetails/3616-Inwood-Ave-New-Orleans-LA-70131/73834037_zpid/,tall-timbers-brechtel,29.909917,-89.9980257
+"4000 S Post Oak Ave, New Orleans, LA 70131",https://www.zillow.com/homedetails/4000-S-Post-Oak-Ave-New-Orleans-LA-70131/73829728_zpid/,tall-timbers-brechtel,29.9049983,-89.99535519999999
+"4931 Lennox Blvd, New Orleans, LA 70131",https://www.zillow.com/homedetails/4931-Lennox-Blvd-New-Orleans-LA-70131/73830651_zpid/,tall-timbers-brechtel,29.9015387,-90.0085199
+"5249 Timber Haven Ln, New Orleans, LA 70131",https://www.zillow.com/homedetails/5249-Timber-Haven-Ln-New-Orleans-LA-70131/73838914_zpid/,tall-timbers-brechtel,29.8993437,-89.99877509999999
+"3800 S Pin Oak Ave, New Orleans, LA 70131",https://www.zillow.com/homedetails/3800-S-Pin-Oak-Ave-New-Orleans-LA-70131/73830061_zpid/,tall-timbers-brechtel,29.9075597,-89.995004
+"27 Park Timbers Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/27-Park-Timbers-Dr-New-Orleans-LA-70131/73830391_zpid/,tall-timbers-brechtel,29.9169035,-90.0128551
+"3731 Red Cypress Dr, New Orleans, LA 70131",https://www.zillow.com/homedetails/3731-Red-Cypress-Dr-New-Orleans-LA-70131/73830617_zpid/,tall-timbers-brechtel,29.9015733,-89.9999686
+"1104-06 Leboeuf St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1104-06-Leboeuf-St-New-Orleans-LA-70114/2076880864_zpid/,fischer-dev,29.9439314,-90.0420015
+"1704 Wagner St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1704-Wagner-St-New-Orleans-LA-70114/84472773_zpid/,fischer-dev,29.9364454,-90.0401521
+"1326 Elmira Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/1326-Elmira-Ave-New-Orleans-LA-70114/73823885_zpid/,mcdonogh,29.9416966,-90.04727109999999
+"1019 Opelousas Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/1019-Opelousas-Ave-New-Orleans-LA-70114/247553723_zpid/,mcdonogh,29.9483264,-90.0456627
+"1333 Pacific Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/1333-Pacific-Ave-New-Orleans-LA-70114/73823674_zpid/,mcdonogh,29.9415132,-90.046801
+"706-708 Majestic Pl, New Orleans, LA 70114",https://www.zillow.com/homedetails/706-708-Majestic-Pl-New-Orleans-LA-70114/350929113_zpid/,mcdonogh,29.9410391,-90.0472065
+"322 Newton St, New Orleans, LA 70114",https://www.zillow.com/homedetails/322-Newton-St-New-Orleans-LA-70114/149051654_zpid/,mcdonogh,29.945724,-90.05277199999999
+"621 Homer St, New Orleans, LA 70114",https://www.zillow.com/homedetails/621-Homer-St-New-Orleans-LA-70114/84472201_zpid/,mcdonogh,29.9464588,-90.0496395
+"830-32 Elmira Ave, New Orleans, LA 70114",https://www.zillow.com/homedetails/830-32-Elmira-Ave-New-Orleans-LA-70114/2065980688_zpid/,mcdonogh,29.9468209,-90.0469249
+"1330 Brooklyn St, New Orleans, LA 70114",https://www.zillow.com/homedetails/1330-Brooklyn-St-New-Orleans-LA-70114/149052343_zpid/,mcdonogh,29.9413621,-90.05289499999999
+"934 Brooklyn St, New Orleans, LA 70114",https://www.zillow.com/homedetails/934-Brooklyn-St-New-Orleans-LA-70114/149051650_zpid/,mcdonogh,29.945638,-90.053229
+"1410 Euterpe St #1410, New Orleans, LA 70130",https://www.zillow.com/homedetails/1410-Euterpe-St-1410-New-Orleans-LA-70130/2109065770_zpid/,lower-garden-district,29.9362002,-90.074111
+"1013 Race St, New Orleans, LA 70130",https://www.zillow.com/homedetails/1013-Race-St-New-Orleans-LA-70130/84439357_zpid/,lower-garden-district,29.9343985,-90.0715912
+"917 Race St, New Orleans, LA 70130",https://www.zillow.com/homedetails/917-Race-St-New-Orleans-LA-70130/73773121_zpid/,lower-garden-district,29.9341621,-90.070353
+"1111 S Peters St Apt 418, New Orleans, LA 70130",https://www.zillow.com/homedetails/1111-S-Peters-St-APT-418-New-Orleans-LA-70130/84439864_zpid/,lower-garden-district,29.9405292,-90.0658591
+"2125 Laurel St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2125-Laurel-St-New-Orleans-LA-70130/402326201_zpid/,lower-garden-district,29.9283815,-90.07498679999999
+"1107 S Peters St Apt 414, New Orleans, LA 70130",https://www.zillow.com/homedetails/1107-S-Peters-St-APT-414-New-Orleans-LA-70130/73779509_zpid/,lower-garden-district,29.94062419999999,-90.0658725
+"1446 Saint Mary St #2, New Orleans, LA 70130",https://www.zillow.com/homedetails/1446-Saint-Mary-St-2-New-Orleans-LA-70130/149045766_zpid/,lower-garden-district,29.9340825,-90.076596
+"1466 Magazine St, New Orleans, LA 70130",https://www.zillow.com/homedetails/1466-Magazine-St-New-Orleans-LA-70130/114006405_zpid/,lower-garden-district,29.934724,-90.07214719999999
+"1427 Saint Mary St, New Orleans, LA 70130",https://www.zillow.com/homedetails/1427-Saint-Mary-St-New-Orleans-LA-70130/305047510_zpid/,lower-garden-district,29.9342694,-90.0762558
+"617 Constantinople St, New Orleans, LA 70115",https://www.zillow.com/homedetails/617-Constantinople-St-New-Orleans-LA-70115/73840351_zpid/,east-riverside,29.9187003,-90.09641789999999
+"3317 Constance St, New Orleans, LA 70115",https://www.zillow.com/homedetails/3317-Constance-St-New-Orleans-LA-70115/2098300679_zpid/,east-riverside,29.9225737,-90.0877935
+"3501 Constance St, New Orleans, LA 70115",https://www.zillow.com/homedetails/3501-Constance-St-New-Orleans-LA-70115/2069974408_zpid/,east-riverside,29.9214502,-90.09065009999999
+"4124 Laurel St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4124-Laurel-St-New-Orleans-LA-70115/73834735_zpid/,east-riverside,29.9189165,-90.0985573
+"826 Delachaise St, New Orleans, LA 70115",https://www.zillow.com/homedetails/826-Delachaise-St-New-Orleans-LA-70115/73834649_zpid/,east-riverside,29.9202118,-90.0892624
+"1016 Amelia St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1016-Amelia-St-New-Orleans-LA-70115/117548506_zpid/,east-riverside,29.9210069,-90.0933503
+"818 Austerlitz St, New Orleans, LA 70115",https://www.zillow.com/homedetails/818-Austerlitz-St-New-Orleans-LA-70115/84474699_zpid/,east-riverside,29.9207118,-90.0959709
+"2841-43 Constance St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2841-43-Constance-St-New-Orleans-LA-70115/2065980388_zpid/,east-riverside,29.9249321,-90.0828372
+"4305 Annunciation St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4305-Annunciation-St-New-Orleans-LA-70115/73834445_zpid/,east-riverside,29.9181994,-90.10019419999999
+"919 4th St, New Orleans, LA 70130",https://www.zillow.com/homedetails/919-4th-St-New-Orleans-LA-70130/84469739_zpid/,irish-channel,29.9254772,-90.08050779999999
+"2712 Saint Thomas St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2712-Saint-Thomas-St-New-Orleans-LA-70130/149043297_zpid/,irish-channel,29.9221912,-90.0787465
+"2226 Constance St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2226-Constance-St-New-Orleans-LA-70130/149044366_zpid/,irish-channel,29.9282549,-90.0765959
+"3200 Chippewa St, New Orleans, LA 70115",https://www.zillow.com/homedetails/3200-Chippewa-St-New-Orleans-LA-70115/73820194_zpid/,irish-channel,29.9200305,-90.08433509999999
+"928 9th St, New Orleans, LA 70115",https://www.zillow.com/homedetails/928-9th-St-New-Orleans-LA-70115/84469417_zpid/,irish-channel,29.9228919,-90.08553069999999
+"904 7th St, New Orleans, LA 70115",https://www.zillow.com/homedetails/904-7th-St-New-Orleans-LA-70115/73826181_zpid/,irish-channel,29.92336289999999,-90.0837112
+"1105-07 3rd St, New Orleans, LA 70130",https://www.zillow.com/homedetails/1105-07-3rd-St-New-Orleans-LA-70130/353462025_zpid/,irish-channel,29.9274152,-90.0807043
+"2334 Constance St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2334-Constance-St-New-Orleans-LA-70130/73821217_zpid/,irish-channel,29.9273752,-90.0775372
+"2412 Annunciation St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2412-Annunciation-St-New-Orleans-LA-70130/73820963_zpid/,irish-channel,29.92520339999999,-90.0775496
+"1101 Peniston St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1101-Peniston-St-New-Orleans-LA-70115/73835639_zpid/,touro,29.92366509999999,-90.09443809999999
+"3620 Chestnut St, New Orleans, LA 70115",https://www.zillow.com/homedetails/3620-Chestnut-St-New-Orleans-LA-70115/2062394462_zpid/,touro,29.9235939,-90.0928321
+"4104 Prytania St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4104-Prytania-St-New-Orleans-LA-70115/73834793_zpid/,touro,29.9250723,-90.098725
+"1221 Napoleon Ave #1221, New Orleans, LA 70115",https://www.zillow.com/homedetails/1221-Napoleon-Ave-1221-New-Orleans-LA-70115/2071521455_zpid/,touro,29.9242232,-90.10145580000001
+"933 Milan St, New Orleans, LA 70115",https://www.zillow.com/homedetails/933-Milan-St-New-Orleans-LA-70115/73840367_zpid/,touro,29.9218343,-90.0989369
+"803-05 Constantinople St, New Orleans, LA 70115",https://www.zillow.com/homedetails/803-05-Constantinople-St-New-Orleans-LA-70115/352410148_zpid/,touro,29.9203818,-90.09663429999999
+"2200-02 Nashville Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/2200-02-Nashville-Ave-New-Orleans-LA-70115/2069347518_zpid/,touro,29.9361083,-90.1146887
+"2523-25 Peniston St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2523-25-Peniston-St-New-Orleans-LA-70115/2065970021_zpid/,touro,29.93633849999999,-90.0979304
+"1212 Aline St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1212-Aline-St-New-Orleans-LA-70115/84475788_zpid/,touro,29.9236921,-90.091437
+"2824 Milan St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2824-Milan-St-New-Orleans-LA-70115/149074408_zpid/,milan,29.9389101,-90.101134
+"1636 Constantinople St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1636-Constantinople-St-New-Orleans-LA-70115/73844145_zpid/,milan,29.9277749,-90.09778089999999
+"1935 Napoleon Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/1935-Napoleon-Ave-New-Orleans-LA-70115/344715886_zpid/,milan,29.9302701,-90.1019637
+"4139 Clara St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4139-Clara-St-New-Orleans-LA-70115/84477040_zpid/,milan,29.9385321,-90.10050820000001
+"1833 Milan St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1833-Milan-St-New-Orleans-LA-70115/73837889_zpid/,milan,29.9294629,-90.099513
+"4121 Baronne St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4121-Baronne-St-New-Orleans-LA-70115/73837876_zpid/,milan,29.929048,-90.0994232
+"2308-10 Marengo St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2308-10-Marengo-St-New-Orleans-LA-70115/2065968058_zpid/,milan,29.9338402,-90.0995676
+"2312 Amelia St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2312-Amelia-St-New-Orleans-LA-70115/149073080_zpid/,milan,29.9343,-90.09693879999999
+"3313-15 Dryades St, New Orleans, LA 70115",https://www.zillow.com/homedetails/3313-15-Dryades-St-New-Orleans-LA-70115/2054098255_zpid/,milan,29.9314524,-90.0920494
+"5027 Dryades St, New Orleans, LA 70115",https://www.zillow.com/homedetails/5027-Dryades-St-New-Orleans-LA-70115/2145419403_zpid/,uptown,29.9292199,-90.1093288
+"1640 Dufossat St Apt C, New Orleans, LA 70115",https://www.zillow.com/homedetails/1640-Dufossat-St-APT-C-New-Orleans-LA-70115/73836382_zpid/,uptown,29.9284866,-90.1108467
+"4626 Saint Charles Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/4626-Saint-Charles-Ave-New-Orleans-LA-70115/73835922_zpid/,uptown,29.9259385,-90.105128
+"4923 Camp St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4923-Camp-St-New-Orleans-LA-70115/84475711_zpid/,uptown,29.9214992,-90.10863909999999
+"2025 Robert St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2025-Robert-St-New-Orleans-LA-70115/73835995_zpid/,uptown,29.9326148,-90.10828819999999
+"1311 Jefferson Ave, New Orleans, LA 70115",https://www.zillow.com/homedetails/1311-Jefferson-Ave-New-Orleans-LA-70115/149070334_zpid/,uptown,29.9245165,-90.1137644
+"1659 Dufossat St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1659-Dufossat-St-New-Orleans-LA-70115/84477088_zpid/,uptown,29.9289503,-90.1103619
+"4414 Baronne St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4414-Baronne-St-New-Orleans-LA-70115/73836278_zpid/,uptown,29.9282979,-90.1029346
+"917 Leontine St, New Orleans, LA 70115",https://www.zillow.com/homedetails/917-Leontine-St-New-Orleans-LA-70115/73835133_zpid/,uptown,29.9210775,-90.1133851
+"5959 Laurel St, New Orleans, LA 70115",https://www.zillow.com/homedetails/5959-Laurel-St-New-Orleans-LA-70115/84478444_zpid/,west-riverside,29.9195278,-90.1218913
+"4518 Constance St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4518-Constance-St-New-Orleans-LA-70115/120622403_zpid/,west-riverside,29.91946339999999,-90.103138
+"4229-31 Annunciation St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4229-31-Annunciation-St-New-Orleans-LA-70115/350370281_zpid/,west-riverside,29.9183126,-90.0996483
+"4937 Tchoupitoulas St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4937-Tchoupitoulas-St-New-Orleans-LA-70115/84474967_zpid/,west-riverside,29.916796,-90.10908380000001
+"4716 Annunciation St Apt 3d, New Orleans, LA 70115",https://www.zillow.com/homedetails/4716-Annunciation-St-APT-3D-New-Orleans-LA-70115/73834489_zpid/,west-riverside,29.9174369,-90.1055006
+"722 Cadiz St, New Orleans, LA 70115",https://www.zillow.com/homedetails/722-Cadiz-St-New-Orleans-LA-70115/73832324_zpid/,west-riverside,29.9191254,-90.1040285
+"6031 Annunciation St, New Orleans, LA 70118",https://www.zillow.com/homedetails/6031-Annunciation-St-New-Orleans-LA-70118/73838085_zpid/,west-riverside,29.9189651,-90.12374799999999
+"5530 Laurel St, New Orleans, LA 70115",https://www.zillow.com/homedetails/5530-Laurel-St-New-Orleans-LA-70115/73834330_zpid/,west-riverside,29.9182084,-90.1176504
+"612 State St, New Orleans, LA 70118",https://www.zillow.com/homedetails/612-State-St-New-Orleans-LA-70118/84478453_zpid/,west-riverside,29.9208048,-90.1223185
+"4904 S Robertson St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4904-S-Robertson-St-New-Orleans-LA-70115/84476690_zpid/,freret,29.9357708,-90.10737519999999
+"5315 La Salle St, New Orleans, LA 70115",https://www.zillow.com/homedetails/5315-La-Salle-St-New-Orleans-LA-70115/149073361_zpid/,freret,29.9343995,-90.1108524
+"2326 Robert St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2326-Robert-St-New-Orleans-LA-70115/73837120_zpid/,freret,29.9356343,-90.10861729999999
+"2712 Soniat St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2712-Soniat-St-New-Orleans-LA-70115/149074573_zpid/,freret,29.9392367,-90.1093022
+"2421 Soniat St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2421-Soniat-St-New-Orleans-LA-70115/73842239_zpid/,freret,29.9364923,-90.10905559999999
+"2625 Robert St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2625-Robert-St-New-Orleans-LA-70115/149074347_zpid/,freret,29.93847,-90.1080959
+"4634 Willow St, New Orleans, LA 70115",https://www.zillow.com/homedetails/4634-Willow-St-New-Orleans-LA-70115/73837501_zpid/,freret,29.9386524,-90.1065264
+"2808 Upperline St, New Orleans, LA 70115",https://www.zillow.com/homedetails/2808-Upperline-St-New-Orleans-LA-70115/73836396_zpid/,freret,29.9380874,-90.1072361
+"2410 Valence St #2410, New Orleans, LA 70115",https://www.zillow.com/homedetails/2410-Valence-St-2410-New-Orleans-LA-70115/2085394068_zpid/,freret,29.9342637,-90.10667199999999
+"1410 Jackson Ave, New Orleans, LA 70130",https://www.zillow.com/homedetails/1410-Jackson-Ave-New-Orleans-LA-70130/73821270_zpid/,garden-district,29.9318803,-90.07924969999999
+"1329 7th St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1329-7th-St-New-Orleans-LA-70115/73820852_zpid/,garden-district,29.9274277,-90.0860847
+"3211 Prytania St Apt 5, New Orleans, LA 70115",https://www.zillow.com/homedetails/3211-Prytania-St-APT-5-New-Orleans-LA-70115/149046249_zpid/,garden-district,29.9278843,-90.0887862
+"2300 Prytania St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2300-Prytania-St-New-Orleans-LA-70130/73826737_zpid/,garden-district,29.9319543,-90.0805034
+"2523 Prytania St, New Orleans, LA 70130",https://www.zillow.com/homedetails/2523-Prytania-St-New-Orleans-LA-70130/73821525_zpid/,garden-district,29.9310031,-90.0833742
+"3314 Camp St #3314, New Orleans, LA 70115",https://www.zillow.com/homedetails/3314-Camp-St-3314-New-Orleans-LA-70115/2053202124_zpid/,garden-district,29.92405279999999,-90.088517
+"1225 Washington Ave, New Orleans, LA 70130",https://www.zillow.com/homedetails/1225-Washington-Ave-New-Orleans-LA-70130/73820806_zpid/,garden-district,29.9277008,-90.0832001
+"1524 Harmony St, New Orleans, LA 70115",https://www.zillow.com/homedetails/1524-Harmony-St-New-Orleans-LA-70115/73826880_zpid/,garden-district,29.9281491,-90.0891716
+"1122 Jackson Ave, New Orleans, LA 70130",https://www.zillow.com/homedetails/1122-Jackson-Ave-New-Orleans-LA-70130/73821156_zpid/,garden-district,29.9299406,-90.07732159999999
+"8319 Green St, New Orleans, LA 70118",https://www.zillow.com/homedetails/8319-Green-St-New-Orleans-LA-70118/73849415_zpid/,leonidas,29.9527414,-90.1279774
+"8941 Willow St, New Orleans, LA 70118",https://www.zillow.com/homedetails/8941-Willow-St-New-Orleans-LA-70118/73849099_zpid/,leonidas,29.9549888,-90.1354992
+"8329 Hickory St, New Orleans, LA 70118",https://www.zillow.com/homedetails/8329-Hickory-St-New-Orleans-LA-70118/73846052_zpid/,leonidas,29.9537335,-90.1273535
+"8218 Green St, New Orleans, LA 70118",https://www.zillow.com/homedetails/8218-Green-St-New-Orleans-LA-70118/73844689_zpid/,leonidas,29.9517675,-90.1274419
+"1220 Dublin St, New Orleans, LA 70118",https://www.zillow.com/homedetails/1220-Dublin-St-New-Orleans-LA-70118/2065916168_zpid/,leonidas,29.9486369,-90.1304964
+"1314 Monroe St, New Orleans, LA 70118",https://www.zillow.com/homedetails/1314-Monroe-St-New-Orleans-LA-70118/84480920_zpid/,leonidas,29.9525448,-90.13376799999999
+"1515 Dublin St, New Orleans, LA 70118",https://www.zillow.com/homedetails/1515-Dublin-St-New-Orleans-LA-70118/149084976_zpid/,leonidas,29.950356,-90.12793789999999
+"8332 Nelson St, New Orleans, LA 70118",https://www.zillow.com/homedetails/8332-Nelson-St-New-Orleans-LA-70118/84481855_zpid/,leonidas,29.9585999,-90.122289
+"2113 Leonidas St, New Orleans, LA 70118",https://www.zillow.com/homedetails/2113-Leonidas-St-New-Orleans-LA-70118/73845466_zpid/,leonidas,29.9572485,-90.1267724
+"212 S Tonti St, New Orleans, LA 70119",https://www.zillow.com/homedetails/212-S-Tonti-St-New-Orleans-LA-70119/148963094_zpid/,tulane-gravier,29.961944,-90.08493999999999
+"324 N Roman St, New Orleans, LA 70112",https://www.zillow.com/homedetails/324-N-Roman-St-New-Orleans-LA-70112/317339369_zpid/,tulane-gravier,29.9624337,-90.07749629999999
+"2235 Iberville St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2235-Iberville-St-New-Orleans-LA-70119/2057774312_zpid/,tulane-gravier,29.9636867,-90.08207949999999
+"1908 Saint Louis St #1910, New Orleans, LA 70112",https://www.zillow.com/homedetails/1908-Saint-Louis-St-1910-New-Orleans-LA-70112/344757777_zpid/,tulane-gravier,29.9636098,-90.0771517
+"3008-10 N Conti St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3008-10-N-Conti-St-New-Orleans-LA-70119/391798972_zpid/,tulane-gravier,29.9702865,-90.0885719
+"315 N Roman St, New Orleans, LA 70112",https://www.zillow.com/homedetails/315-N-Roman-St-New-Orleans-LA-70112/148962834_zpid/,tulane-gravier,29.9624252,-90.0778838
+"2636-38 Cleveland Ave, New Orleans, LA 70119",https://www.zillow.com/homedetails/2636-38-Cleveland-Ave-New-Orleans-LA-70119/2065985198_zpid/,tulane-gravier,29.9640684,-90.0877458
+"2209-11 Conti St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2209-11-Conti-St-New-Orleans-LA-70119/2065973110_zpid/,tulane-gravier,29.96491019999999,-90.080292
+"2542 Bienville St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2542-Bienville-St-New-Orleans-LA-70119/148963196_zpid/,tulane-gravier,29.9659269,-90.084499
+"2206 Saint Ann St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2206-Saint-Ann-St-New-Orleans-LA-70119/73778297_zpid/,treme-lafitte,29.9677911,-90.0774838
+"1571-1573 N Dorgenois St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1571-1573-N-Dorgenois-St-New-Orleans-LA-70119/400439787_zpid/,treme-lafitte,29.9782443,-90.0743208
+"1719-21 Governor Nicholls St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1719-21-Governor-Nicholls-St-New-Orleans-LA-70116/2053347955_zpid/,treme-lafitte,29.968484,-90.07042919999999
+"1923 Dumaine St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1923-Dumaine-St-New-Orleans-LA-70116/148970968_zpid/,treme-lafitte,29.9673259,-90.07420320000001
+"1713-15 N Dorgenois St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1713-15-N-Dorgenois-St-New-Orleans-LA-70119/2065978697_zpid/,treme-lafitte,29.9803408,-90.0723956
+"1723 Governor Nicholls St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1723-Governor-Nicholls-St-New-Orleans-LA-70116/398828108_zpid/,treme-lafitte,29.9685315,-90.07048429999999
+"2218-20 Barracks St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2218-20-Barracks-St-New-Orleans-LA-70119/402597468_zpid/,treme-lafitte,29.9720701,-90.07413679999999
+"2514 Ursulines Ave, New Orleans, LA 70119",https://www.zillow.com/homedetails/2514-Ursulines-Ave-New-Orleans-LA-70119/252074984_zpid/,treme-lafitte,29.9720914,-90.07806749999999
+"1915 Governor Nicholls St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1915-Governor-Nicholls-St-New-Orleans-LA-70116/2065967362_zpid/,treme-lafitte,29.9695906,-90.0719264
+"1507 N Miro St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1507-N-Miro-St-New-Orleans-LA-70119/73782281_zpid/,seventh-ward,29.9750464,-90.0724513
+"1659 N Galvez St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1659-N-Galvez-St-New-Orleans-LA-70119/73782168_zpid/,seventh-ward,29.9769936,-90.0692395
+"1476 Marais St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1476-Marais-St-New-Orleans-LA-70116/148977338_zpid/,seventh-ward,29.968582,-90.0642103
+"2421-23 George Nick Connor Dr, New Orleans, LA 70119",https://www.zillow.com/homedetails/2421-23-George-Nick-Connor-Dr-New-Orleans-LA-70119/347226806_zpid/,seventh-ward,29.9816445,-90.0684622
+"1136 Saint Bernard Ave, New Orleans, LA 70116",https://www.zillow.com/homedetails/1136-Saint-Bernard-Ave-New-Orleans-LA-70116/148977255_zpid/,seventh-ward,29.9677501,-90.0629879
+"1917-19 N Derbigny St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1917-19-N-Derbigny-St-New-Orleans-LA-70116/2056116757_zpid/,seventh-ward,29.974717,-90.060405
+"2326-28 Lapeyrouse St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2326-28-Lapeyrouse-St-New-Orleans-LA-70119/351227140_zpid/,seventh-ward,29.9772139,-90.0725897
+"1338 Kerlerec St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1338-Kerlerec-St-New-Orleans-LA-70116/73780944_zpid/,seventh-ward,29.9686282,-90.06594539999999
+"2322 Allen St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2322-Allen-St-New-Orleans-LA-70119/2125050577_zpid/,seventh-ward,29.9808236,-90.0651061
+"735 Port St, New Orleans, LA 70117",https://www.zillow.com/homedetails/735-Port-St-New-Orleans-LA-70117/73796355_zpid/,marigny,29.9652588,-90.04992030000001
+"930 Port St, New Orleans, LA 70117",https://www.zillow.com/homedetails/930-Port-St-New-Orleans-LA-70117/149018053_zpid/,marigny,29.9672463,-90.0497744
+"1801-03 Frenchmen St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1801-03-Frenchmen-St-New-Orleans-LA-70116/2065415325_zpid/,marigny,29.9756964,-90.058478
+"2704 N Rampart St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2704-N-Rampart-St-New-Orleans-LA-70117/126374206_zpid/,marigny,29.9672446,-90.04942609999999
+"2017-19 Marigny St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2017-19-Marigny-St-New-Orleans-LA-70117/350862125_zpid/,marigny,29.9781845,-90.0561362
+"1429 Dauphine St, New Orleans, LA 70116",https://www.zillow.com/homedetails/1429-Dauphine-St-New-Orleans-LA-70116/2056111253_zpid/,marigny,29.9652424,-90.06128509999999
+"1416 Bourbon St Apt 1, New Orleans, LA 70116",https://www.zillow.com/homedetails/1416-Bourbon-St-APT-1-New-Orleans-LA-70116/148976746_zpid/,marigny,29.9645682,-90.0606957
+"938 Spain St, New Orleans, LA 70117",https://www.zillow.com/homedetails/938-Spain-St-New-Orleans-LA-70117/371149575_zpid/,marigny,29.9676175,-90.05333999999999
+"1427 Dauphine St #a, New Orleans, LA 70116",https://www.zillow.com/homedetails/1427-Dauphine-St-A-New-Orleans-LA-70116/110378428_zpid/,marigny,29.9649561,-90.0616024
+"2255 Urquhart St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2255-Urquhart-St-New-Orleans-LA-70117/73789843_zpid/,st-roch,29.970761,-90.055165
+"3520 Pauger St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3520-Pauger-St-New-Orleans-LA-70119/73784165_zpid/,st-roch,29.9861647,-90.06210159999999
+"1526 Mandeville St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1526-Mandeville-St-New-Orleans-LA-70117/73795860_zpid/,st-roch,29.9733645,-90.05500889999999
+"2313 N Johnson St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2313-N-Johnson-St-New-Orleans-LA-70117/148993248_zpid/,st-roch,29.9780538,-90.05461799999999
+"1701 Marigny St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1701-Marigny-St-New-Orleans-LA-70117/73790567_zpid/,st-roch,29.97483209999999,-90.05582969999999
+"1409 Elysian Fields Ave, New Orleans, LA 70117",https://www.zillow.com/homedetails/1409-Elysian-Fields-Ave-New-Orleans-LA-70117/73790163_zpid/,st-roch,29.97186109999999,-90.05669879999999
+"2861 Law St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2861-Law-St-New-Orleans-LA-70117/73790720_zpid/,st-roch,29.9846592,-90.04603589999999
+"3705-07 N Galvez St, New Orleans, LA 70117",https://www.zillow.com/homedetails/3705-07-N-Galvez-St-New-Orleans-LA-70117/2065944008_zpid/,st-roch,29.9765418,-90.0346893
+"2245-2247 N Galvez St, New Orleans, LA 70117",https://www.zillow.com/homedetails/2245-2247-N-Galvez-St-New-Orleans-LA-70117/2057921924_zpid/,st-roch,29.9789727,-90.0560095
+"4025 Hamilton St, New Orleans, LA 70118",https://www.zillow.com/homedetails/4025-Hamilton-St-New-Orleans-LA-70118/84483026_zpid/,dixon,29.9743862,-90.1160364
+"3939 Hamilton St, New Orleans, LA 70118",https://www.zillow.com/homedetails/3939-Hamilton-St-New-Orleans-LA-70118/73846543_zpid/,dixon,29.9737876,-90.1165153
+"4115 Monroe St, New Orleans, LA 70118",https://www.zillow.com/homedetails/4115-Monroe-St-New-Orleans-LA-70118/73846604_zpid/,dixon,29.9722947,-90.1122721
+"4119 Hollygrove St, New Orleans, LA 70118",https://www.zillow.com/homedetails/4119-Hollygrove-St-New-Orleans-LA-70118/73849982_zpid/,dixon,29.9743842,-90.1145705
+"1 Garden Ln, New Orleans, LA 70124",https://www.zillow.com/homedetails/1-Garden-Ln-New-Orleans-LA-70124/149090809_zpid/,lakewood,29.9792174,-90.1225662
+"5637 Bellaire Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/5637-Bellaire-Dr-New-Orleans-LA-70124/73850533_zpid/,lakewood,29.9940212,-90.1222119
+"5667 Marcia Ave, New Orleans, LA 70124",https://www.zillow.com/homedetails/5667-Marcia-Ave-New-Orleans-LA-70124/73848959_zpid/,lakewood,29.9941555,-90.11987069999999
+"251 Bellaire Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/251-Bellaire-Dr-New-Orleans-LA-70124/73848992_zpid/,lakewood,29.9824196,-90.1230496
+"116 Oaktree Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/116-Oaktree-Dr-New-Orleans-LA-70124/247543765_zpid/,lakewood,29.9917544,-90.1173835
+"6501 Oakland Dr, New Orleans, LA 70118",https://www.zillow.com/homedetails/6501-Oakland-Dr-New-Orleans-LA-70118/73846597_zpid/,lakewood,29.97981459999999,-90.1140933
+"6561 Oakland Dr, New Orleans, LA 70118",https://www.zillow.com/homedetails/6561-Oakland-Dr-New-Orleans-LA-70118/73846253_zpid/,lakewood,29.9804401,-90.11446269999999
+"329 Country Club Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/329-Country-Club-Dr-New-Orleans-LA-70124/73848942_zpid/,lakewood,29.9913411,-90.12111980000002
+"422 Country Club Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/422-Country-Club-Dr-New-Orleans-LA-70124/73850562_zpid/,lakewood,29.9910209,-90.1220973
+"807-09 Hidalgo St, New Orleans, LA 70124",https://www.zillow.com/homedetails/807-09-Hidalgo-St-New-Orleans-LA-70124/2065963356_zpid/,navarre,29.9907293,-90.107686
+"5481 Hawthorne Pl, New Orleans, LA 70124",https://www.zillow.com/homedetails/5481-Hawthorne-Pl-New-Orleans-LA-70124/73775340_zpid/,navarre,29.9895673,-90.1106971
+"716 Hidalgo St, New Orleans, LA 70124",https://www.zillow.com/homedetails/716-Hidalgo-St-New-Orleans-LA-70124/73776116_zpid/,navarre,29.99042579999999,-90.1089095
+"5670 Hawthorne Pl, New Orleans, LA 70124",https://www.zillow.com/homedetails/5670-Hawthorne-Pl-New-Orleans-LA-70124/73775317_zpid/,navarre,29.9935446,-90.11083529999999
+"5501 Woodlawn Pl, New Orleans, LA 70124",https://www.zillow.com/homedetails/5501-Woodlawn-Pl-New-Orleans-LA-70124/73781429_zpid/,navarre,29.990333,-90.11183210000002
+"5654-56 Hawthorne Pl, New Orleans, LA 70124",https://www.zillow.com/homedetails/5654-56-Hawthorne-Pl-New-Orleans-LA-70124/347185442_zpid/,navarre,29.9932693,-90.1108823
+"5565 Woodlawn Pl, New Orleans, LA 70124",https://www.zillow.com/homedetails/5565-Woodlawn-Pl-New-Orleans-LA-70124/73774932_zpid/,navarre,29.9917332,-90.1116129
+"5643 Canal Blvd, New Orleans, LA 70124",https://www.zillow.com/homedetails/5643-Canal-Blvd-New-Orleans-LA-70124/73775740_zpid/,navarre,29.9934392,-90.1088994
+"5620-22 Rosemary Pl, New Orleans, LA 70124",https://www.zillow.com/homedetails/5620-22-Rosemary-Pl-New-Orleans-LA-70124/352322579_zpid/,navarre,29.9929007,-90.11326559999999
+"812 Solomon Pl, New Orleans, LA 70119",https://www.zillow.com/homedetails/812-Solomon-Pl-New-Orleans-LA-70119/73778440_zpid/,city-park,29.980793,-90.0960808
+"1351 Moss St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1351-Moss-St-New-Orleans-LA-70119/2089605428_zpid/,city-park,29.9805497,-90.0893337
+"4602 Saint Peter St, New Orleans, LA 70119",https://www.zillow.com/homedetails/4602-Saint-Peter-St-New-Orleans-LA-70119/73778705_zpid/,city-park,29.9827587,-90.10222499999999
+"928 City Park Ave, New Orleans, LA 70119",https://www.zillow.com/homedetails/928-City-Park-Ave-New-Orleans-LA-70119/2054495319_zpid/,city-park,29.9833569,-90.0974439
+"1034 N Carrollton Ave, New Orleans, LA 70119",https://www.zillow.com/homedetails/1034-N-Carrollton-Ave-New-Orleans-LA-70119/84446922_zpid/,city-park,29.9823547,-90.0917437
+"606 N Murat St, New Orleans, LA 70119",https://www.zillow.com/homedetails/606-N-Murat-St-New-Orleans-LA-70119/73784330_zpid/,city-park,29.98146059999999,-90.1013031
+"606-08 N Alexander St, New Orleans, LA 70119",https://www.zillow.com/homedetails/606-08-N-Alexander-St-New-Orleans-LA-70119/2065968489_zpid/,city-park,29.9807941,-90.1002954
+"1023 Harding Dr, New Orleans, LA 70119",https://www.zillow.com/homedetails/1023-Harding-Dr-New-Orleans-LA-70119/73785007_zpid/,city-park,29.98044029999999,-90.0895522
+"826 N Carrollton Ave, New Orleans, LA 70119",https://www.zillow.com/homedetails/826-N-Carrollton-Ave-New-Orleans-LA-70119/73785026_zpid/,city-park,29.9798422,-90.0945583
+"6441 Memphis St, New Orleans, LA 70124",https://www.zillow.com/homedetails/6441-Memphis-St-New-Orleans-LA-70124/73782980_zpid/,lakeview,30.007503,-90.1051342
+"6838 Argonne Blvd, New Orleans, LA 70124",https://www.zillow.com/homedetails/6838-Argonne-Blvd-New-Orleans-LA-70124/73778173_zpid/,lakeview,30.0144415,-90.10186259999999
+"6770 Louis Xiv St, New Orleans, LA 70124",https://www.zillow.com/homedetails/6770-Louis-Xiv-St-New-Orleans-LA-70124/73783363_zpid/,lakeview,30.0139379,-90.1083822
+"5870 Canal Blvd, New Orleans, LA 70124",https://www.zillow.com/homedetails/5870-Canal-Blvd-New-Orleans-LA-70124/73775507_zpid/,lakeview,29.9970265,-90.1094122
+"6509 Marshal Foch St, New Orleans, LA 70124",https://www.zillow.com/homedetails/6509-Marshal-Foch-St-New-Orleans-LA-70124/73776823_zpid/,lakeview,30.0085118,-90.103003
+"6062 Memphis St, New Orleans, LA 70124",https://www.zillow.com/homedetails/6062-Memphis-St-New-Orleans-LA-70124/73775038_zpid/,lakeview,30.00043549999999,-90.1065532
+"7121 Louisville St, New Orleans, LA 70124",https://www.zillow.com/homedetails/7121-Louisville-St-New-Orleans-LA-70124/73776287_zpid/,lakeview,30.01923609999999,-90.1083981
+"6437 Louis Xiv St, New Orleans, LA 70124",https://www.zillow.com/homedetails/6437-Louis-Xiv-St-New-Orleans-LA-70124/114007057_zpid/,lakeview,30.0078515,-90.1086325
+"5940 Vicksburg St, New Orleans, LA 70124",https://www.zillow.com/homedetails/5940-Vicksburg-St-New-Orleans-LA-70124/73781550_zpid/,lakeview,29.9983048,-90.10780609999999
+"6634 Pontchartrain Blvd, New Orleans, LA 70124",https://www.zillow.com/homedetails/6634-Pontchartrain-Blvd-New-Orleans-LA-70124/73847612_zpid/,west-end,30.0131727,-90.1155234
+"230 26th St, New Orleans, LA 70124",https://www.zillow.com/homedetails/230-26th-St-New-Orleans-LA-70124/73850324_zpid/,west-end,30.0063057,-90.1178917
+"324 S Roadway St #n-31, New Orleans, LA 70124",https://www.zillow.com/homedetails/324-S-Roadway-St-N-31-New-Orleans-LA-70124/347119468_zpid/,west-end,30.0235799,-90.1172162
+"6927 Bellaire Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/6927-Bellaire-Dr-New-Orleans-LA-70124/73848157_zpid/,west-end,30.01757109999999,-90.12023610000001
+"6214 Pontchartrain Blvd, New Orleans, LA 70124",https://www.zillow.com/homedetails/6214-Pontchartrain-Blvd-New-Orleans-LA-70124/73848103_zpid/,west-end,30.0043176,-90.1161425
+"135 14th St, New Orleans, LA 70124",https://www.zillow.com/homedetails/135-14th-St-New-Orleans-LA-70124/114013419_zpid/,west-end,30.0017725,-90.11708759999999
+"319 14th St, New Orleans, LA 70124",https://www.zillow.com/homedetails/319-14th-St-New-Orleans-LA-70124/73850490_zpid/,west-end,30.0019638,-90.1198575
+"6229 Bellaire Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/6229-Bellaire-Dr-New-Orleans-LA-70124/73848621_zpid/,west-end,30.0049111,-90.12125909999999
+"6000 Bellaire Dr, New Orleans, LA 70124",https://www.zillow.com/homedetails/6000-Bellaire-Dr-New-Orleans-LA-70124/73848507_zpid/,west-end,30.0003131,-90.1223406
+"3920 Paris Ave, New Orleans, LA 70122",https://www.zillow.com/homedetails/3920-Paris-Ave-New-Orleans-LA-70122/84451922_zpid/,st-bernard-area,29.9976304,-90.0740015
+"1328 Saint Denis St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1328-Saint-Denis-St-New-Orleans-LA-70122/73784418_zpid/,st-bernard-area,29.9944656,-90.07960849999999
+"4135 Jumonville St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4135-Jumonville-St-New-Orleans-LA-70122/73785080_zpid/,st-bernard-area,29.9996265,-90.0783878
+"4000 Davey St Apt 406, New Orleans, LA 70122",https://www.zillow.com/homedetails/4000-Davey-St-APT-406-New-Orleans-LA-70122/73784741_zpid/,st-bernard-area,29.9976606,-90.0844146
+"4000 Davey St Apt 101, New Orleans, LA 70122",https://www.zillow.com/homedetails/4000-Davey-St-APT-101-New-Orleans-LA-70122/73785064_zpid/,st-bernard-area,29.9976606,-90.0844146
+"4121 Gibson St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4121-Gibson-St-New-Orleans-LA-70122/73784758_zpid/,st-bernard-area,29.9995213,-90.07606439999999
+"1320 Sere St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1320-Sere-St-New-Orleans-LA-70122/148984438_zpid/,st-bernard-area,29.9934191,-90.07990579999999
+"3923-25 Cadillac St, New Orleans, LA 70122",https://www.zillow.com/homedetails/3923-25-Cadillac-St-New-Orleans-LA-70122/2069127579_zpid/,st-bernard-area,29.997084,-90.08152079999999
+"3832 Paris Ave, New Orleans, LA 70122",https://www.zillow.com/homedetails/3832-Paris-Ave-New-Orleans-LA-70122/84451869_zpid/,st-bernard-area,29.9968987,-90.0739
+"2400 Gentilly Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/2400-Gentilly-Blvd-New-Orleans-LA-70122/148984308_zpid/,dillard,29.9921693,-90.06783380000002
+"3036-38 Allen St, New Orleans, LA 70122",https://www.zillow.com/homedetails/3036-38-Allen-St-New-Orleans-LA-70122/347292205_zpid/,dillard,29.98927999999999,-90.06579029999999
+"216 Warrington Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/216-Warrington-Dr-New-Orleans-LA-70122/73789988_zpid/,dillard,29.9986205,-90.06488449999999
+"4330 Frenchmen St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4330-Frenchmen-St-New-Orleans-LA-70122/124049683_zpid/,dillard,30.0024879,-90.06109389999999
+"3713 Paris Ave, New Orleans, LA 70122",https://www.zillow.com/homedetails/3713-Paris-Ave-New-Orleans-LA-70122/84451839_zpid/,dillard,29.9953428,-90.0730541
+"4214 Rayne Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/4214-Rayne-Dr-New-Orleans-LA-70122/148985431_zpid/,dillard,29.99932999999999,-90.0724826
+"4634 Touro St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4634-Touro-St-New-Orleans-LA-70122/148986256_zpid/,dillard,30.0056526,-90.0624955
+"2076 Stephen Girard St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2076-Stephen-Girard-St-New-Orleans-LA-70122/73792743_zpid/,dillard,30.0026516,-90.0622978
+"3910 Virgil Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/3910-Virgil-Blvd-New-Orleans-LA-70122/73784553_zpid/,dillard,29.9975974,-90.0717647
+"5508 Saint Anthony Ave, New Orleans, LA 70122",https://www.zillow.com/homedetails/5508-Saint-Anthony-Ave-New-Orleans-LA-70122/148988207_zpid/,st-anthony,30.0148746,-90.06563609999999
+"6061 Cameron Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/6061-Cameron-Blvd-New-Orleans-LA-70122/73790865_zpid/,st-anthony,30.021411,-90.064256
+"5771 Vermillion Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/5771-Vermillion-Blvd-New-Orleans-LA-70122/73791494_zpid/,st-anthony,30.0183558,-90.0617548
+"5514 Warrington Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/5514-Warrington-Dr-New-Orleans-LA-70122/73786172_zpid/,st-anthony,30.0148643,-90.0695906
+"6000 Cameron Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/6000-Cameron-Blvd-New-Orleans-LA-70122/84452493_zpid/,st-anthony,30.0192875,-90.0647717
+"5721 Vermillion Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/5721-Vermillion-Blvd-New-Orleans-LA-70122/73786477_zpid/,st-anthony,30.0172505,-90.06164729999999
+"5124 Touro St, New Orleans, LA 70122",https://www.zillow.com/homedetails/5124-Touro-St-New-Orleans-LA-70122/73790004_zpid/,st-anthony,30.0108161,-90.0628814
+"5513 Wildair Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/5513-Wildair-Dr-New-Orleans-LA-70122/148988176_zpid/,st-anthony,30.015245,-90.06674799999999
+"5519 Wingate Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/5519-Wingate-Dr-New-Orleans-LA-70122/73786206_zpid/,st-anthony,30.0156341,-90.0675933
+"2336 Lark St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2336-Lark-St-New-Orleans-LA-70122/73794212_zpid/,lake-terrace-oaks,30.0275984,-90.05806539999999
+"1434 Frankfort St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1434-Frankfort-St-New-Orleans-LA-70122/73787783_zpid/,lake-terrace-oaks,30.0224818,-90.07779389999999
+"6229 Caldwell Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/6229-Caldwell-Dr-New-Orleans-LA-70122/73789354_zpid/,lake-terrace-oaks,30.0231897,-90.0734447
+"6242 Pratt Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/6242-Pratt-Dr-New-Orleans-LA-70122/73793366_zpid/,lake-terrace-oaks,30.0235436,-90.0723127
+"6419 Caldwell Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/6419-Caldwell-Dr-New-Orleans-LA-70122/73788244_zpid/,lake-terrace-oaks,30.0267345,-90.0770745
+"1728 Oriole St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1728-Oriole-St-New-Orleans-LA-70122/73794454_zpid/,lake-terrace-oaks,30.0285065,-90.0762517
+"6348 Pratt Dr, New Orleans, LA 70122",https://www.zillow.com/homedetails/6348-Pratt-Dr-New-Orleans-LA-70122/73789467_zpid/,lake-terrace-oaks,30.0264527,-90.07400969999999
+"1708 Oriole St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1708-Oriole-St-New-Orleans-LA-70122/73788261_zpid/,lake-terrace-oaks,30.027826,-90.07678229999999
+"1712 Lark St, New Orleans, LA 70122",https://www.zillow.com/homedetails/1712-Lark-St-New-Orleans-LA-70122/84453150_zpid/,lake-terrace-oaks,30.0275714,-90.0759839
+"2470 Prentiss Ave, New Orleans, LA 70122",https://www.zillow.com/homedetails/2470-Prentiss-Ave-New-Orleans-LA-70122/73793984_zpid/,milneburg,30.0168546,-90.05387119999999
+"5605 Painters St, New Orleans, LA 70122",https://www.zillow.com/homedetails/5605-Painters-St-New-Orleans-LA-70122/73793538_zpid/,milneburg,30.0162664,-90.0522797
+"6134 Music St, New Orleans, LA 70122",https://www.zillow.com/homedetails/6134-Music-St-New-Orleans-LA-70122/73794327_zpid/,milneburg,30.022003,-90.055496
+"5828 Baccich St, New Orleans, LA 70122",https://www.zillow.com/homedetails/5828-Baccich-St-New-Orleans-LA-70122/73793011_zpid/,milneburg,30.0192207,-90.0484317
+"6230-32 Eads St, New Orleans, LA 70122",https://www.zillow.com/homedetails/6230-32-Eads-St-New-Orleans-LA-70122/2078642792_zpid/,milneburg,30.0234697,-90.051051
+"2424 Pressburg St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2424-Pressburg-St-New-Orleans-LA-70122/84456396_zpid/,milneburg,30.0190127,-90.05531069999999
+"2656 Pressburg St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2656-Pressburg-St-New-Orleans-LA-70122/148998733_zpid/,milneburg,30.0192783,-90.0498693
+"6212 Marigny St, New Orleans, LA 70122",https://www.zillow.com/homedetails/6212-Marigny-St-New-Orleans-LA-70122/73792951_zpid/,milneburg,30.0226343,-90.0601075
+"2624 Allen Toussaint Blvd, New Orleans, LA 70122",https://www.zillow.com/homedetails/2624-Allen-Toussaint-Blvd-New-Orleans-LA-70122/401754262_zpid/,milneburg,30.0223111,-90.0510408
+"6227 Providence Pl, New Orleans, LA 70126",https://www.zillow.com/homedetails/6227-Providence-Pl-New-Orleans-LA-70126/84459131_zpid/,pontchartrain-park,30.02367659999999,-90.0459113
+"5958 Vienna Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/5958-Vienna-Ct-New-Orleans-LA-70126/73799267_zpid/,pontchartrain-park,30.0208991,-90.045401
+"5001 Prentiss Ave, New Orleans, LA 70126",https://www.zillow.com/homedetails/5001-Prentiss-Ave-New-Orleans-LA-70126/84458527_zpid/,pontchartrain-park,30.02096999999999,-90.0356
+"4624 Mendez St, New Orleans, LA 70126",https://www.zillow.com/homedetails/4624-Mendez-St-New-Orleans-LA-70126/73798690_zpid/,pontchartrain-park,30.016746,-90.0375382
+"5444 Debore Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/5444-Debore-Dr-New-Orleans-LA-70126/73798252_zpid/,pontchartrain-park,30.0172595,-90.03482
+"5501 Press Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/5501-Press-Dr-New-Orleans-LA-70126/73799098_zpid/,pontchartrain-park,30.0155759,-90.042338
+"6118 Campus Blvd, New Orleans, LA 70126",https://www.zillow.com/homedetails/6118-Campus-Blvd-New-Orleans-LA-70126/73799269_zpid/,pontchartrain-park,30.0220648,-90.0452564
+"6248 Providence Pl, New Orleans, LA 70126",https://www.zillow.com/homedetails/6248-Providence-Pl-New-Orleans-LA-70126/73804861_zpid/,pontchartrain-park,30.023282,-90.0464715
+"6730 Pauline Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/6730-Pauline-Dr-New-Orleans-LA-70126/2057097280_zpid/,pontchartrain-park,30.0292918,-90.03812169999999
+"4614 Stephen Girard Ave, New Orleans, LA 70126",https://www.zillow.com/homedetails/4614-Stephen-Girard-Ave-New-Orleans-LA-70126/73813501_zpid/,gentilly-woods,30.0069882,-90.0366609
+"4501 Desire Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4501-Desire-Dr-New-Orleans-LA-70126/73814183_zpid/,gentilly-woods,30.0085828,-90.0339233
+"4742 Louisa Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4742-Louisa-Dr-New-Orleans-LA-70126/73812464_zpid/,gentilly-woods,30.0093419,-90.0380234
+"4801 Gallier Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4801-Gallier-Dr-New-Orleans-LA-70126/73819424_zpid/,gentilly-woods,30.0101154,-90.0335972
+"5034 Dreux Ave, New Orleans, LA 70126",https://www.zillow.com/homedetails/5034-Dreux-Ave-New-Orleans-LA-70126/149034368_zpid/,gentilly-woods,30.015087,-90.0336501
+"5128 Cunningham Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/5128-Cunningham-Ct-New-Orleans-LA-70126/84466778_zpid/,gentilly-woods,30.013612,-90.038046
+"4516 Louisa Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4516-Louisa-Dr-New-Orleans-LA-70126/149033483_zpid/,gentilly-woods,30.00736,-90.037648
+"4816 Gallier Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4816-Gallier-Dr-New-Orleans-LA-70126/73819457_zpid/,gentilly-woods,30.0103365,-90.03417329999999
+"4625 Saint Ferdinand Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4625-Saint-Ferdinand-Dr-New-Orleans-LA-70126/73813031_zpid/,gentilly-woods,30.006515,-90.0421228
+"4423 Venus St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4423-Venus-St-New-Orleans-LA-70122/73792859_zpid/,gentilly-terrace,30.0036506,-90.0510888
+"2555 Verbena St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2555-Verbena-St-New-Orleans-LA-70122/84455648_zpid/,gentilly-terrace,30.0002687,-90.0509831
+"2666 Acacia St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2666-Acacia-St-New-Orleans-LA-70122/148995271_zpid/,gentilly-terrace,29.99599319999999,-90.0479333
+"4773 Painters St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4773-Painters-St-New-Orleans-LA-70122/84456535_zpid/,gentilly-terrace,30.0085062,-90.0523454
+"2200 Carnot St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2200-Carnot-St-New-Orleans-LA-70122/148997367_zpid/,gentilly-terrace,30.0063163,-90.0593212
+"4770 Spain St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4770-Spain-St-New-Orleans-LA-70122/84456505_zpid/,gentilly-terrace,30.0080968,-90.0567007
+"2424 Lavender St, New Orleans, LA 70122",https://www.zillow.com/homedetails/2424-Lavender-St-New-Orleans-LA-70122/84455456_zpid/,gentilly-terrace,29.9973243,-90.05240859999999
+"4757 Music St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4757-Music-St-New-Orleans-LA-70122/73794258_zpid/,gentilly-terrace,30.007985,-90.0541322
+"4920 Spain St, New Orleans, LA 70122",https://www.zillow.com/homedetails/4920-Spain-St-New-Orleans-LA-70122/84456659_zpid/,gentilly-terrace,30.0091865,-90.0567537
+"906 Louisa St, New Orleans, LA 70117",https://www.zillow.com/homedetails/906-Louisa-St-New-Orleans-LA-70117/73799070_zpid/,bywater,29.9653011,-90.04322900000001
+"3416 Saint Claude Ave #3416, New Orleans, LA 70117",https://www.zillow.com/homedetails/3416-Saint-Claude-Ave-3416-New-Orleans-LA-70117/2092682957_zpid/,bywater,29.9664425,-90.0400837
+"1432 Poland Ave, New Orleans, LA 70117",https://www.zillow.com/homedetails/1432-Poland-Ave-New-Orleans-LA-70117/73801723_zpid/,bywater,29.9685807,-90.0306561
+"4905-4907 Dauphine St, New Orleans, LA 70117",https://www.zillow.com/homedetails/4905-4907-Dauphine-St-New-Orleans-LA-70117/402485898_zpid/,bywater,29.9600106,-90.0248615
+"4213 Burgundy St, New Orleans, LA 70117",https://www.zillow.com/homedetails/4213-Burgundy-St-New-Orleans-LA-70117/73797312_zpid/,bywater,29.9631055,-90.03379029999999
+"3121 Burgundy St, New Orleans, LA 70117",https://www.zillow.com/homedetails/3121-Burgundy-St-New-Orleans-LA-70117/149018145_zpid/,bywater,29.9653621,-90.0443044
+"705-07 Alvar St, New Orleans, LA 70117",https://www.zillow.com/homedetails/705-07-Alvar-St-New-Orleans-LA-70117/2065970413_zpid/,bywater,29.9618552,-90.0374073
+"4716-18 Burgundy St, New Orleans, LA 70117",https://www.zillow.com/homedetails/4716-18-Burgundy-St-New-Orleans-LA-70117/348979028_zpid/,bywater,29.9610994,-90.0266876
+"3217 Chartres St, New Orleans, LA 70117",https://www.zillow.com/homedetails/3217-Chartres-St-New-Orleans-LA-70117/149016738_zpid/,bywater,29.9621565,-90.0434873
+"5721-23 Royal St, New Orleans, LA 70117",https://www.zillow.com/homedetails/5721-23-Royal-St-New-Orleans-LA-70117/2065977694_zpid/,holy-cross,29.9568384,-90.0154021
+"1026 Gordon St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1026-Gordon-St-New-Orleans-LA-70117/84458581_zpid/,holy-cross,29.9598536,-90.0126289
+"5530 Dauphine St, New Orleans, LA 70117",https://www.zillow.com/homedetails/5530-Dauphine-St-New-Orleans-LA-70117/73797107_zpid/,holy-cross,29.9580054,-90.0170495
+"912 Lizardi St, New Orleans, LA 70117",https://www.zillow.com/homedetails/912-Lizardi-St-New-Orleans-LA-70117/149018492_zpid/,holy-cross,29.9603394,-90.02133649999999
+"615 Tricou St, New Orleans, LA 70117",https://www.zillow.com/homedetails/615-Tricou-St-New-Orleans-LA-70117/84457422_zpid/,holy-cross,29.9546482,-90.01115899999999
+"625 Flood St, New Orleans, LA 70117",https://www.zillow.com/homedetails/625-Flood-St-New-Orleans-LA-70117/73796674_zpid/,holy-cross,29.956921,-90.0179629
+"930 Andry St, New Orleans, LA 70117",https://www.zillow.com/homedetails/930-Andry-St-New-Orleans-LA-70117/73797834_zpid/,holy-cross,29.9602918,-90.01921929999999
+"1423-25 Lamanche St, New Orleans, LA 70117",https://www.zillow.com/homedetails/1423-25-Lamanche-St-New-Orleans-LA-70117/2060510374_zpid/,holy-cross,29.964445,-90.01333500000001
+"5330 Dauphine St, New Orleans, LA 70117",https://www.zillow.com/homedetails/5330-Dauphine-St-New-Orleans-LA-70117/114008795_zpid/,holy-cross,29.9584411,-90.0199437
+"4818 Stemway Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4818-Stemway-Dr-New-Orleans-LA-70126/149033317_zpid/,pines-village,30.0184099,-90.01889059999999
+"7180 W Laverne St, New Orleans, LA 70126",https://www.zillow.com/homedetails/7180-W-Laverne-St-New-Orleans-LA-70126/73804818_zpid/,pines-village,30.0253947,-90.02151789999999
+"5913 Beechcraft St, New Orleans, LA 70126",https://www.zillow.com/homedetails/5913-Beechcraft-St-New-Orleans-LA-70126/73824188_zpid/,pines-village,30.0144897,-90.0203039
+"5913 Boeing St, New Orleans, LA 70126",https://www.zillow.com/homedetails/5913-Boeing-St-New-Orleans-LA-70126/73818723_zpid/,pines-village,30.0137967,-90.02029350000001
+"6651 Foch Rd, New Orleans, LA 70126",https://www.zillow.com/homedetails/6651-Foch-Rd-New-Orleans-LA-70126/73797398_zpid/,pines-village,30.0219578,-90.01856529999999
+"4434 Shalimar Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4434-Shalimar-Dr-New-Orleans-LA-70126/149035493_zpid/,pines-village,30.0132147,-90.0176469
+"5946-48 Babylon St, New Orleans, LA 70126",https://www.zillow.com/homedetails/5946-48-Babylon-St-New-Orleans-LA-70126/349784734_zpid/,pines-village,30.0199348,-90.0210996
+"4430 Shalimar Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4430-Shalimar-Dr-New-Orleans-LA-70126/73814135_zpid/,pines-village,30.0130741,-90.0175974
+"6018 Morrison Rd, New Orleans, LA 70126",https://www.zillow.com/homedetails/6018-Morrison-Rd-New-Orleans-LA-70126/73798501_zpid/,pines-village,30.02622,-90.02294049999999
+"4741 Lafon Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4741-Lafon-Dr-New-Orleans-LA-70126/73817616_zpid/,plum-orchard,30.0174071,-90.00496849999999
+"4640 Wilson Ave, New Orleans, LA 70126",https://www.zillow.com/homedetails/4640-Wilson-Ave-New-Orleans-LA-70126/73813262_zpid/,plum-orchard,30.0177688,-89.9994323
+"4554 Laine Ave, New Orleans, LA 70126",https://www.zillow.com/homedetails/4554-Laine-Ave-New-Orleans-LA-70126/73817826_zpid/,plum-orchard,30.017158,-89.99065519999999
+"6501 Selma St, New Orleans, LA 70126",https://www.zillow.com/homedetails/6501-Selma-St-New-Orleans-LA-70126/149032384_zpid/,plum-orchard,30.0157173,-90.0121739
+"4220 Dale St, New Orleans, LA 70126",https://www.zillow.com/homedetails/4220-Dale-St-New-Orleans-LA-70126/149031362_zpid/,plum-orchard,30.0117461,-90.01019210000001
+"7209-11 Warfield St, New Orleans, LA 70126",https://www.zillow.com/homedetails/7209-11-Warfield-St-New-Orleans-LA-70126/342143849_zpid/,plum-orchard,30.0143929,-90.0025699
+"4800 Eastview Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/4800-Eastview-Dr-New-Orleans-LA-70126/73811768_zpid/,plum-orchard,30.0212444,-89.9930417
+"4632 Pecan St, New Orleans, LA 70126",https://www.zillow.com/homedetails/4632-Pecan-St-New-Orleans-LA-70126/73811990_zpid/,plum-orchard,30.0158206,-90.00316389999999
+"4521 America St, New Orleans, LA 70126",https://www.zillow.com/homedetails/4521-America-St-New-Orleans-LA-70126/73816807_zpid/,plum-orchard,30.0162889,-90.0090807
+"4819 Lurline St, New Orleans, LA 70127",https://www.zillow.com/homedetails/4819-Lurline-St-New-Orleans-LA-70127/73815375_zpid/,read-blvd-west,30.0232557,-89.9708174
+"4859 Bundy Rd, New Orleans, LA 70127",https://www.zillow.com/homedetails/4859-Bundy-Rd-New-Orleans-LA-70127/73815116_zpid/,read-blvd-west,30.0234748,-89.9791024
+"4682 Perrault Walk, New Orleans, LA 70127",https://www.zillow.com/homedetails/4682-Perrault-Walk-New-Orleans-LA-70127/73820163_zpid/,read-blvd-west,30.0195948,-89.97754669999999
+"4683 Lancelot Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/4683-Lancelot-Dr-New-Orleans-LA-70127/73818997_zpid/,read-blvd-west,30.01945449999999,-89.984906
+"4700 Knight Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/4700-Knight-Dr-New-Orleans-LA-70127/73816299_zpid/,read-blvd-west,30.0199168,-89.9832385
+"4742 Bundy Rd, New Orleans, LA 70127",https://www.zillow.com/homedetails/4742-Bundy-Rd-New-Orleans-LA-70127/73815741_zpid/,read-blvd-west,30.0214109,-89.97951479999999
+"4635 Longfellow Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/4635-Longfellow-Dr-New-Orleans-LA-70127/73815109_zpid/,read-blvd-west,30.019526,-89.977964
+"4711 Knight Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/4711-Knight-Dr-New-Orleans-LA-70127/73816844_zpid/,read-blvd-west,30.0201195,-89.9827821
+"4515 Marque Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/4515-Marque-Dr-New-Orleans-LA-70127/84467401_zpid/,read-blvd-west,30.0171605,-89.9762532
+"170 E Greenbrier Dr, New Orleans, LA 70128",https://www.zillow.com/homedetails/170-E-Greenbrier-Dr-New-Orleans-LA-70128/73811946_zpid/,read-blvd-east,30.0470719,-89.95394309999999
+"11287 Winrock Dr, New Orleans, LA 70128",https://www.zillow.com/homedetails/11287-Winrock-Dr-New-Orleans-LA-70128/73810271_zpid/,read-blvd-east,30.0374233,-89.9556423
+"5276 Beaver Dr, New Orleans, LA 70128",https://www.zillow.com/homedetails/5276-Beaver-Dr-New-Orleans-LA-70128/73816515_zpid/,read-blvd-east,30.0311121,-89.9533769
+"11000 N Hardy St, New Orleans, LA 70127",https://www.zillow.com/homedetails/11000-N-Hardy-St-New-Orleans-LA-70127/73814456_zpid/,read-blvd-east,30.0389666,-89.9676966
+"5320 Bullard Ave, New Orleans, LA 70128",https://www.zillow.com/homedetails/5320-Bullard-Ave-New-Orleans-LA-70128/73810885_zpid/,read-blvd-east,30.0349133,-89.9523059
+"4711 Cardenas Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/4711-Cardenas-Dr-New-Orleans-LA-70127/73822043_zpid/,read-blvd-east,30.0221753,-89.9652552
+"5961 Wright Rd, New Orleans, LA 70128",https://www.zillow.com/homedetails/5961-Wright-Rd-New-Orleans-LA-70128/73810465_zpid/,read-blvd-east,30.0395712,-89.9658238
+"4951 Wright Rd, New Orleans, LA 70128",https://www.zillow.com/homedetails/4951-Wright-Rd-New-Orleans-LA-70128/73816835_zpid/,read-blvd-east,30.0270816,-89.9559483
+"10200 Pressburg St, New Orleans, LA 70127",https://www.zillow.com/homedetails/10200-Pressburg-St-New-Orleans-LA-70127/73814189_zpid/,read-blvd-east,30.024842,-89.9673215
+"6526 Coveview Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/6526-Coveview-Ct-New-Orleans-LA-70126/73809650_zpid/,west-lake-forest,30.0212796,-90.0127627
+"7760 N Coronet Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/7760-N-Coronet-Ct-New-Orleans-LA-70126/149009672_zpid/,west-lake-forest,30.0262318,-90.00013039999999
+"5044 Westlake Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/5044-Westlake-Dr-New-Orleans-LA-70126/114009565_zpid/,west-lake-forest,30.0221085,-90.0103559
+"5531 Christian Ln, New Orleans, LA 70126",https://www.zillow.com/homedetails/5531-Christian-Ln-New-Orleans-LA-70126/73810924_zpid/,west-lake-forest,30.0241169,-89.9942165
+"7874 S Coronet Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/7874-S-Coronet-Ct-New-Orleans-LA-70126/149009725_zpid/,west-lake-forest,30.0257275,-89.99741519999999
+"6540 Coveview Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/6540-Coveview-Ct-New-Orleans-LA-70126/73815444_zpid/,west-lake-forest,30.0212675,-90.0125802
+"5531 Rickert Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/5531-Rickert-Dr-New-Orleans-LA-70126/73808527_zpid/,west-lake-forest,30.0230291,-89.99844159999999
+"5530 Samovar Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/5530-Samovar-Dr-New-Orleans-LA-70126/73808521_zpid/,west-lake-forest,30.0233222,-89.9972293
+"7710-60 N Coronet Ct, New Orleans, LA 70126",https://www.zillow.com/homedetails/7710-60-N-Coronet-Ct-New-Orleans-LA-70126/2053207591_zpid/,west-lake-forest,30.02610679999999,-90.0009255
+"7613 Mercier St, New Orleans, LA 70128",https://www.zillow.com/homedetails/7613-Mercier-St-New-Orleans-LA-70128/73796294_zpid/,little-woods,30.050111,-89.9715095
+"7208 W Tamaron Blvd, New Orleans, LA 70128",https://www.zillow.com/homedetails/7208-W-Tamaron-Blvd-New-Orleans-LA-70128/73809266_zpid/,little-woods,30.0583225,-89.9520129
+"1102 Chimney Wood Ln, New Orleans, LA 70126",https://www.zillow.com/homedetails/1102-Chimney-Wood-Ln-New-Orleans-LA-70126/73805810_zpid/,little-woods,30.0280483,-90.0213321
+"7857 Sand St, New Orleans, LA 70128",https://www.zillow.com/homedetails/7857-Sand-St-New-Orleans-LA-70128/149013421_zpid/,little-woods,30.0722545,-89.9443853
+"7073 Boston Dr, New Orleans, LA 70127",https://www.zillow.com/homedetails/7073-Boston-Dr-New-Orleans-LA-70127/149007804_zpid/,little-woods,30.0355533,-89.9883414
+"7321 Wayside Dr, New Orleans, LA 70128",https://www.zillow.com/homedetails/7321-Wayside-Dr-New-Orleans-LA-70128/73807784_zpid/,little-woods,30.0567157,-89.9544487
+"8000 Morrison Rd, New Orleans, LA 70126",https://www.zillow.com/homedetails/8000-Morrison-Rd-New-Orleans-LA-70126/84460554_zpid/,little-woods,30.0327654,-90.0029014
+"7415 Weaver Ave, New Orleans, LA 70127",https://www.zillow.com/homedetails/7415-Weaver-Ave-New-Orleans-LA-70127/73799170_zpid/,little-woods,30.0435239,-89.98387740000001
+"7608 Dogwood Dr, New Orleans, LA 70126",https://www.zillow.com/homedetails/7608-Dogwood-Dr-New-Orleans-LA-70126/84459556_zpid/,little-woods,30.035834,-90.0046824
+"2846-48 Grand Route Saint John St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2846-48-Grand-Route-Saint-John-St-New-Orleans-LA-70119/402324790_zpid/,fairgrounds,29.9794741,-90.07922549999999
+"2218-20 N Broad Ave, New Orleans, LA 70119",https://www.zillow.com/homedetails/2218-20-N-Broad-Ave-New-Orleans-LA-70119/2065971781_zpid/,fairgrounds,29.9595399,-90.0924347
+"1448 Verna St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1448-Verna-St-New-Orleans-LA-70119/73784360_zpid/,fairgrounds,29.9824485,-90.08548789999999
+"3101 Belfort St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3101-Belfort-St-New-Orleans-LA-70119/84450938_zpid/,fairgrounds,29.9860566,-90.07717570000001
+"3569 Desaix Blvd, New Orleans, LA 70119",https://www.zillow.com/homedetails/3569-Desaix-Blvd-New-Orleans-LA-70119/73783181_zpid/,fairgrounds,29.9893934,-90.0857571
+"1520 Leda St, New Orleans, LA 70119",https://www.zillow.com/homedetails/1520-Leda-St-New-Orleans-LA-70119/73784622_zpid/,fairgrounds,29.98339,-90.08592759999999
+"3121 Trafalgar St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3121-Trafalgar-St-New-Orleans-LA-70119/247554852_zpid/,fairgrounds,29.987904,-90.075925
+"3118 Castine St, New Orleans, LA 70119",https://www.zillow.com/homedetails/3118-Castine-St-New-Orleans-LA-70119/73788524_zpid/,fairgrounds,29.9893624,-90.08053509999999
+"2628 Castiglione St, New Orleans, LA 70119",https://www.zillow.com/homedetails/2628-Castiglione-St-New-Orleans-LA-70119/73781493_zpid/,fairgrounds,29.98375459999999,-90.0726851
